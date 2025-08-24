@@ -1,0 +1,1246 @@
+{
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to continue your learning journey",
+    "signInWith": "Sign in with",
+    "email": "Email",
+    "phone": "Phone",
+    "username": "Username",
+    "emailPlaceholder": "Enter your email",
+    "phonePlaceholder": "Enter your phone number",
+    "usernamePlaceholder": "Enter your username",
+    "identifierLabelEmail": "Email",
+    "identifierLabelPhone": "Phone Number",
+    "identifierLabelUsername": "Username",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing in...",
+    "or": "or",
+    "continueWithGoogle": "Continue with Google",
+    "connecting": "Connecting...",
+    "signupPrompt": "Don't have an account? ",
+    "signupLink": "Sign up",
+    "errorLoginFailed": "Login failed",
+    "errorGoogleFailed": "Google sign in failed"
+  },
+  "signup": {
+    "titles": {
+      "method": "Create Account",
+      "details": "Account Details",
+      "complete": "Welcome to REACH!"
+    },
+    "subtitles": {
+      "method": "Choose how you'd like to sign up",
+      "details": "Fill in your account information",
+      "complete": "Your account has been created successfully"
+    },
+    "signUpWith": "Sign up with",
+    "emailAddress": "Email Address",
+    "phoneNumber": "Phone Number",
+    "manualVerification": "Manual Verification",
+    "errorRequired": "Please fill in the required field",
+    "errorAllFieldsRequired": "Please fill in all required fields",
+    "selectRole": "Select your role",
+    "roleParent": "Parent",
+    "roleVolunteer": "Volunteer",
+    "roleParentDescription": "I have a child who will be learning with REACH",
+    "roleVolunteerDescription": "I want to volunteer and help students learn",
+    "verifying": "Verifying...",
+    "continue": "Continue",
+    "or": "or",
+    "connecting": "Connecting...",
+    "continueWithGoogle": "Continue with Google",
+    "alreadyHave": "Already have an account? ",
+    "signIn": "Sign in",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "password": "Password",
+    "createPassword": "Create a password",
+    "confirmPassword": "Confirm Password",
+    "confirmYourPassword": "Confirm your password",
+    "studentName": "Student Name",
+    "studentNamePlaceholder": "Enter student's full name",
+    "parentName": "Parent Name", 
+    "parentNamePlaceholder": "Enter parent's full name",
+    "school": "School",
+    "schoolPlaceholder": "Enter school name",
+    "creatingAccount": "Creating Account...",
+    "createAccount": "Create Account",
+    "successAccountCreated": "Account Created!",
+    "successWelcome": "Welcome to REACH Hong Kong. You can now start your learning journey.",
+    "labelUsername": "Username: ",
+    "labelContact": "Contact: ",
+    "viaInvitation": "Via invitation",
+    "continueToDashboard": "Continue to Dashboard",
+    "signInExisting": "Sign in to existing account",
+    "errorPasswordMismatch": "Passwords do not match",
+    "errorPasswordShort": "Password must be at least 6 characters",
+    "errorSignupFailed": "Signup failed",
+    "errorGoogleFailed": "Google sign up failed"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "themeDesc": "Choose your preferred color scheme",
+    "lightMode": "Light",
+    "darkMode": "Dark",
+    "systemMode": "System",
+    "accessibility": "Accessibility",
+    "largeText": "Large Text",
+    "largeTextDesc": "Increase overall font size",
+    "highContrast": "High Contrast",
+    "highContrastDesc": "Enhance text and UI contrast for better visibility",
+    "reduceMotion": "Reduce Motion",
+    "reduceMotionDesc": "Minimize animations and transitions",
+    "soundEffects": "Sound Effects",
+    "soundEffectsDesc": "Enable audio feedback for interactions",
+    "enhancedFocus": "Enhanced Focus",
+    "enhancedFocusDesc": "Show clear focus indicators for keyboard navigation",
+    "screenReaderMode": "Screen Reader Mode",
+    "screenReaderModeDesc": "Optimize interface for screen readers",
+    "resetAccessibility": "Reset All Accessibility Settings",
+    "accessibilityHelp": "Accessibility Help & Guide",
+    "profile": "Profile",
+    "editProfile": "Edit Profile",
+    "notifications": "Notifications",
+    "assignmentReminders": "Assignment Reminders",
+    "assignmentRemindersDesc": "Get notified about due dates",
+    "communityUpdates": "Community Updates",
+    "communityUpdatesDesc": "New discussions and replies",
+    "achievementBadges": "Achievement Badges",
+    "achievementBadgesDesc": "When you earn new badges",
+    "privacy": "Privacy & Security",
+    "anonymousMode": "Anonymous Mode",
+    "anonymousModeDesc": "Hide your name in discussions",
+    "changePassword": "Change Password",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "contactSupport": "Contact Support",
+    "reportProblem": "Report a Problem",
+    "leaderboardVisibility": "Show Leaderboard",
+    "leaderboardVisibilityDesc": "Display leaderboard in navigation and allow rankings"
+  },
+  "home": {
+    "headerTitle": "Emma's Learning Journey",
+    "headerSubtitle": "Grade K3 • Parent Dashboard",
+    "thisWeek": "This Week",
+    "upload": "Upload",
+    "aiInsights": "Insights",
+    "viewExercises": "View Exercises",
+    "progressSnapshot": "Progress Snapshot",
+    "daysStreak": "Days Streak",
+    "activityHours": "Activity Hours",
+    "starsEarned": "Points Earned",
+    "modalUploadWorksheet": "Upload Worksheet",
+    "uploading": "Uploading...",
+    "processingWorksheet": "Processing your worksheet",
+    "uploadedSuccessfully": "Worksheet uploaded successfully",
+    "uploadedWorksheet": "Uploaded Worksheet",
+    "worksheetPreview": "Worksheet Preview",
+    "sightWordTask": "Sight word circling task",
+    "analyzing": "Analyzing handwriting and answers...",
+    "takes3060": "This usually takes 30-60 seconds",
+    "analysisComplete": "Analysis complete",
+    "emmaReviewed": "Emma's worksheet has been reviewed",
+    "progressUpdated": "Progress Updated",
+    "progressDelta": "+2% Vocabulary Progress • +1% Phonemic Awareness",
+    "aiFeedback": "AI Feedback",
+    "whatWentWell": "What Went Well",
+    "needsPractice": "Needs Practice",
+    "generalNotes": "General Notes",
+    "viewPastAssignments": "View Past Assignments",
+    "suggestedNextSteps": "Suggested Next Steps",
+    "viewRecommendedPractice": "View Recommended Practice",
+    "downloadExtraWorksheet": "Download extra worksheet (PDF)",
+    "done": "Done",
+    "signOut": "Sign Out",
+    "start": "Start",
+    "weeklyTasks": {
+      "0": {
+        "title": "Upload Worksheet",
+        "subtitle": "Week 12 - Alphabet Practice"
+      },
+      "1": {
+        "title": "Watch Tutorial Video",
+        "subtitle": "Letter Recognition Tips"
+      },
+      "2": {
+        "title": "Confirm Homework Submission",
+        "subtitle": "Due Today at 6:00 PM"
+      },
+      "3": {
+        "title": "Live Tutorial Session",
+        "subtitle": "Reading Comprehension - Tomorrow 2:00 PM"
+      }
+    },
+    "aiInsight": {
+      "sentence": "Emma reversed <bold>b</bold> and <bold>d</bold> in yesterday's worksheet. Try {{minutes}} minutes of extra practice."
+    },
+    "stats": {
+      "title": "Statistics",
+      "excellent": "Excellent!",
+      "amazing": "Amazing progress!",
+      "learning": "learning streak",
+      "vocabulary": "new vocabulary"
+    },
+    "highlights": {
+      "title": "Learning Highlights",
+      "wellDone": "Well done!",
+      "description": "Emma has mastered {{percentage}}% of common vocabulary and excels in speech recognition.",
+      "badges": {
+        "vocabulary": "Vocabulary Master",
+        "pronunciation": "Pronunciation Improved"
+      }
+    },
+    "progress": {
+      "title": "Progress",
+      "recognition": "Recognition Progress",
+      "completed": "Completed"
+    },
+    "learningPath": "Learning Path",
+    "challenge": {
+      "title": "Today's Challenge: Defeat b and d!"
+    }
+  },
+  "common": {
+    "or": "or",
+    "signOut": "Sign Out",
+    "settings": "Settings"
+  },
+  "admin": {
+    "title": "NGO Admin Dashboard",
+    "subtitle": "Track student performance and learning analytics across all REACH programs",
+    "overview": "Overview",
+    "students": "Students",
+    "performance": "Performance",
+    "analytics": "Analytics",
+    "reports": "Reports",
+    "totalStudents": "Total Students",
+    "averageScore": "Average Score",
+    "totalAttempts": "Total Attempts",
+    "avgTimePerAttempt": "Avg Time/Attempt",
+    "activeToday": "Active Today",
+    "weeklyProgress": "Weekly Progress Trend",
+    "weeklyProgressDesc": "Average scores and activity across all students",
+    "regionalPerformance": "Performance by Region",
+    "regionalPerformanceDesc": "Average scores across Hong Kong regions",
+    "ageGroupPerformance": "Age Group Performance",
+    "ageGroupPerformanceDesc": "Average scores by age groups",
+    "subjectOverview": "Subject Performance Overview",
+    "subjectOverviewDesc": "Average scores across all subjects",
+    "studentDirectory": "Student Directory",
+    "studentDirectoryDesc": "Comprehensive list of all enrolled students with performance metrics",
+    "searchStudents": "Search students...",
+    "filter": "Filter",
+    "overallScore": "Overall",
+    "attempts": "attempts",
+    "total": "total",
+    "dayStreak": "day streak",
+    "lastActive": "Last active",
+    "view": "View",
+    "priorityActionCenter": "Priority Action Center",
+    "priorityActionCenterDesc": "Students and parents who need immediate attention",
+    "studentWatchlist": "Student Watchlist",
+    "needsAttention": "need attention",
+    "inactiveParents": "Inactive Parents",
+    "inactive": "inactive",
+    "daysAgo": "days ago",
+    "sendReminder": "Send Reminder",
+    "viewDetails": "View Details",
+    "viewAll": "View All",
+    "more": "more",
+    "engagement": "Engagement",
+    "progress": "Progress",
+    "retention": "Retention",
+    "dailyActiveStudents": "Daily Active Students",
+    "weeklyReturnRate": "Weekly Return Rate",
+    "keyInsights": "Key Insights",
+    "learningTrendAnalysis": "Learning Trend Analysis",
+    "learningTrendDesc": "Comprehensive view of student progress over time",
+    "subjectSnapshot": "Subject Performance Snapshot",
+    "subjectSnapshotDesc": "Quick overview of performance across all subjects",
+    "insights": "Insights",
+    "keyMetrics": "Key Performance Metrics",
+    "keyMetricsDesc": "Essential metrics at a glance",
+    "learningIntelligence": "Learning Intelligence",
+    "learningIntelligenceDesc": "AI-powered insights into learning patterns",
+    "exportReports": "Export Reports",
+    "exportReportsDesc": "Generate detailed reports for stakeholders",
+    "englishLearning": "English Learning Platform",
+    "learningInsights": "Learning Insights",
+    "learningJourney": "Learning Journey",
+    "learningJourneyDesc": "Every child's progress tells a story",
+    "currentAverage": "Current Average",
+    "excellentProgress": "Excellent progress this quarter!",
+    "skillsMastery": "Skills Mastery",
+    "skillsMasteryDesc": "How well are our young learners doing?",
+    "exercises": "exercises",
+    "subjectComparison": "Subject Performance Comparison",
+    "subjectComparisonDesc": "Detailed breakdown by learning areas",
+    "learningEfficiency": "Learning Efficiency",
+    "learningEfficiencyDesc": "Average attempts vs time spent analysis",
+    "detailedMetrics": "Detailed Performance Metrics",
+    "detailedMetricsDesc": "Comprehensive analysis of student learning patterns",
+    "subject": "Subject",
+    "avgScore": "Avg Score",
+    "avgTime": "Avg Time",
+    "successRate": "Success Rate",
+    "difficultyIndex": "Difficulty Index",
+    "engagementMetrics": "Engagement Metrics",
+    "dailyActiveUsers": "Daily Active Users",
+    "avgSessionTime": "Avg Session Time",
+    "completionRate": "Completion Rate",
+    "returnRate": "Return Rate",
+    "learningInsights": "Learning Insights",
+    "mostDifficult": "Most Difficult Topic",
+    "fastestImprovement": "Fastest Improvement",
+    "peakLearningTime": "Peak Learning Time",
+    "avgQuestionsPerSession": "Avg Questions/Session",
+    "regionalStats": "Regional Stats",
+    "generateReports": "Generate Reports",
+    "generateReportsDesc": "Create detailed reports for stakeholders and funders",
+    "performanceReport": "Performance Report",
+    "studentSummary": "Student Summary",
+    "progressReport": "Progress Report",
+    "regionalAnalysis": "Regional Analysis",
+    "timeAnalytics": "Time Analytics",
+    "exportData": "Export Data",
+    "exportAllData": "Export All Data",
+    "age": "Age",
+    "region": "Region",
+    "kindergarten": "Kindergarten",
+    "grade": "Grade",
+    "enrollment": "Enrollment",
+    "streak": "Streak",
+    "timeSpent": "Time Spent",
+    "alphabet": "Alphabet",
+    "sightWords": "Sight Words",
+    "vocabulary": "Vocabulary",
+    "phonics": "Phonics",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "centralHongKong": "Central Hong Kong",
+    "kowloonEast": "Kowloon East",
+    "kowloonWest": "Kowloon West",
+    "newTerritories": "New Territories",
+    "years": "years"
+  },
+  "components": {
+    "assignmentCard": {
+      "status": {
+        "overdue": "Overdue",
+        "submitted": "Submitted",
+        "graded": "Graded",
+        "pending": "Pending"
+      },
+      "labels": {
+        "dueDate": "Due Date",
+        "estTime": "Est. Time",
+        "grade": "Grade"
+      },
+      "actions": {
+        "viewDetails": "View Details",
+        "submitWork": "Submit Work",
+        "viewSubmission": "View Submission"
+      }
+    },
+    "communityCard": {
+      "badges": {
+        "pinned": "Pinned",
+        "popular": "Popular",
+        "volunteer": "Volunteer"
+      },
+      "by": "by",
+      "anonymousParent": "Anonymous Parent"
+    },
+    "dashboardNav": {
+      "overview": "Overview",
+      "assignments": "Assignments",
+      "dashboard": "Dashboard",
+      "community": "Community",
+      "settings": "Settings"
+    },
+    "mobileNav": {
+      "home": "Home",
+      "progress": "Progress",
+      "community": "Community",
+      "help": "Help",
+      "leaderboard": "Leaderboard",
+      "volunteer": "Volunteer",
+      "volunteerLeaderboard": "Leaderboard",
+      "qna": "Q&A",
+      "liveTutoring": "Live Tutoring"
+    },
+    "routeGuard": {
+      "loading": "Loading...",
+      "checkingAuth": "Checking authentication"
+    }
+  },
+  "assignments": {
+    "list": {
+      "title": "Assignment Hub",
+      "subtitle": "View assignments, submit work, and track your child's progress",
+      "searchPlaceholder": "Search assignments...",
+      "filterBySubject": "Filter by subject",
+      "subjects": {
+        "all": "All Subjects",
+        "english": "English",
+        "mathematics": "Mathematics",
+        "science": "Science",
+        "art": "Art"
+      },
+      "filterByStatus": "Filter by status",
+      "statuses": {
+        "all": "All Status",
+        "pending": "Pending",
+        "submitted": "Submitted",
+        "graded": "Graded",
+        "overdue": "Overdue"
+      },
+      "labels": {
+        "dueDate": "Due Date",
+        "estTime": "Est. Time",
+        "grade": "Grade"
+      },
+      "actions": {
+        "viewDetails": "View Details",
+        "submitWork": "Submit Work",
+        "viewSubmission": "View Submission"
+      },
+      "empty": {
+        "title": "No assignments found",
+        "description": "Check back later for new assignments from your teachers."
+      }
+    },
+    "detail": {
+      "header": "Assignment Details",
+      "reach": "REACH Hong Kong",
+      "dueDate": "Due Date",
+      "instructions": "Instructions",
+      "materials": "Assignment Materials",
+      "materialsDesc": "Download these files to complete the assignment",
+      "download": "Download",
+      "info": "Assignment Info",
+      "teacher": "Teacher",
+      "points": "Points",
+      "estTime": "Est. Time",
+      "status": "Status",
+      "acceptedFormats": "Accepted Formats",
+      "submitYourWork": "Submit Your Work",
+      "submitDesc": "Upload photos, videos, or documents of your completed assignment",
+      "submitAssignment": "Submit Assignment",
+      "dueIn": "Due in",
+      "days": "days",
+      "viewSubmission": "View Submission",
+      "editSubmission": "Edit Submission",
+      "help": "Need Help?",
+      "askForum": "Ask in Discussion Forum",
+      "parentGuide": "Parent Guide"
+    },
+    "discussion": {
+      "header": "Assignment Discussion",
+      "help": "Get help and share tips for this assignment",
+      "messagesCount": "messages",
+      "lastActivity": "Last activity:",
+      "reply": "Reply",
+      "join": "Join the Discussion",
+      "joinDesc": "Ask questions or share tips about this assignment",
+      "placeholder": "Ask a question or share a tip...",
+      "postAnonymously": "Post anonymously",
+      "cancel": "Cancel",
+      "postMessage": "Post Message"
+    },
+    "submit": {
+      "header": "Submit Assignment",
+      "reach": "REACH Hong Kong",
+      "submitDesc": "Submit your completed work for grading and feedback",
+      "dueDate": "Due Date",
+      "uploadYourWork": "Upload Your Work",
+      "uploadDesc": "Upload photos, videos, or documents showing your completed assignment",
+      "dragDrop": "Drag and drop files here",
+      "orClick": "or click to browse your device",
+      "chooseFiles": "Choose Files",
+      "supported": "Supported: Images, Videos, PDF (Max 10MB each)",
+      "uploadedFiles": "Uploaded Files",
+      "additionalNotes": "Additional Notes",
+      "additionalNotesDesc": "Add any comments or notes about your submission (optional)",
+      "notesPlaceholder": "Tell your teacher about your work, any challenges you faced, or questions you have...",
+      "uploading": "Uploading...",
+      "submissionGuidelines": "Submission Guidelines",
+      "guidelines": {
+        "clearMedia": "Take clear photos or videos of your work",
+        "readableText": "Make sure all text is readable",
+        "includeName": "Include your child's name on the work",
+        "beforeDue": "Submit before the due date"
+      },
+      "acceptedFormats": "Accepted Formats",
+      "submitting": "Submitting...",
+      "submitAssignment": "Submit Assignment",
+      "uploadAtLeastOne": "Please upload at least one file to submit"
+    }
+  },
+  "community": {
+    "page": {
+      "title": "Community",
+      "subtitle": "Connect, learn, and grow together",
+      "search": "Search community...",
+      "tabs": {
+        "discussions": "Discussions",
+        "resources": "Resources",
+        "groups": "Groups"
+      },
+      "discussions": {
+        "recent": "Recent Discussions",
+        "newPost": "New Post",
+        "latestReplies": "Latest replies:",
+        "follow": "Follow",
+        "roles": {
+          "teacher": "Teacher",
+          "volunteer": "Volunteer",
+          "staff": "Staff",
+          "parent": "Parent"
+        },
+        "posts": {
+          "0": {
+            "title": "Tips for K3 to Primary 1 Transition",
+            "author": "Anonymous Parent",
+            "timeAgo": "2h ago",
+            "category": "General",
+            "recentReplies": {
+              "0": "We use bedtime reading — 10 min daily worked wonders for sight words.",
+              "1": "Try flashcards with pictures! Make it a game..."
+            }
+          },
+          "1": {
+            "title": "English Reading Help Needed",
+            "author": "Sarah_HK",
+            "timeAgo": "4h ago",
+            "category": "Assignment Help",
+            "recentReplies": {
+              "0": "What specific reading challenges is your child facing?",
+              "1": "My daughter had similar issues. Here's what helped..."
+            }
+          },
+          "2": {
+            "title": "Homework Motivation Strategies",
+            "author": "TeacherVolunteer",
+            "timeAgo": "6h ago",
+            "category": "Tips & Strategies",
+            "recentReplies": {
+              "0": "The reward chart idea worked perfectly for us!",
+              "1": "I always recommend breaking tasks into smaller chunks."
+            }
+          }
+        },
+        "tags": {
+          "general": "General",
+          "transition": "Transition",
+          "primary1": "Primary 1",
+          "preparation": "Preparation"
+        },
+        "questions": {
+          "newPost": "New Question"
+        }
+      },
+      "resources": {
+        "title": "Shared Resources",
+        "share": "Share",
+        "by": "By",
+        "preview": "Preview",
+        "favourite": "Favourite",
+        "download": "Download"
+      },
+      "groups": {
+        "title": "Practice Groups",
+        "create": "Create",
+        "members": "members",
+        "join": "Join Group (+25 pts)"
+      }
+    },
+    "discussion": {
+      "title": "Discussion",
+      "reach": "REACH Community",
+      "generalDiscussion": "General Discussion",
+      "replies": "Replies",
+      "report": "Report",
+      "helpful": "Helpful",
+      "addReply": "Add Your Reply",
+      "addReplyDesc": "Share your thoughts and help other parents",
+      "replyPlaceholder": "Write your reply here...",
+      "postAnonymously": "Post anonymously",
+      "cancel": "Cancel",
+      "postReply": "Post Reply",
+      "writeReply": "Write your reply...",
+      "followPost": "Follow Post"
+    }
+  },
+  "dashboard": {
+    "header": {
+      "subtitle": "Parent Dashboard",
+      "settings": "Settings"
+    },
+    "welcome": "Welcome back, {{name}}",
+    "welcomeSubtitle": "Track Emma's learning journey and connect with the REACH community",
+    "tabs": {
+      "overview": "Overview",
+      "progress": "Progress",
+      "engagement": "Engagement",
+      "insights": "Insights"
+    },
+    "overview": {
+      "activeAssignments": "Active Assignments",
+      "badgesEarned": "Badges Earned",
+      "averageGrade": "Average Grade",
+      "thisWeek": "This Week",
+      "recentActivity": "Recent Activity",
+      "upcomingDeadlines": "Upcoming Deadlines",
+      "mathSubmitted": "Math assignment submitted",
+      "earnedReadingStar": "Earned \"Reading Star\" badge",
+      "joinedDiscussion": "Joined parent discussion",
+      "yesterday": "Yesterday",
+      "dueTomorrow": "Due tomorrow",
+      "dueInDays": "Due in {{days}} days",
+      "dueNextWeek": "Due next week",
+      "pending": "Pending"
+    },
+    "progress": {
+      "subjectOverTime": "Subject Progress Over Time",
+      "subjectOverTimeDesc": "Emma's performance across different subjects",
+      "currentSubject": "Current Subject Performance",
+      "currentSubjectDesc": "Emma's latest scores by subject",
+      "achievementBadges": "Achievement Badges",
+      "achievementBadgesDesc": "Emma's learning milestones and accomplishments",
+      "earned": "Earned"
+    },
+    "engagement": {
+      "weeklyLearningTime": "Weekly Learning Time",
+      "weeklyLearningTimeDesc": "Hours spent on assignments and activities",
+      "communityEngagement": "Community Engagement",
+      "communityEngagementDesc": "Your participation in the REACH community",
+      "forumPosts": "Forum Posts",
+      "thisMonth": "This month",
+      "helpfulAnswers": "Helpful Answers",
+      "givenToParents": "Given to other parents",
+      "volunteerHours": "Volunteer Hours",
+      "timeAuction": "Time Auction credits",
+      "joinDiscussions": "Join Discussions",
+      "weeklyLeaderboard": "Weekly Leaderboard",
+      "topFamilies": "Top engaged families this week"
+    },
+    "insights": {
+      "personalized": "Personalized Recommendations",
+      "personalizedDesc": "AI-powered insights to help Emma's learning journey",
+      "prioritySuffix": " priority",
+      "learningPatterns": "Learning Patterns",
+      "learningPatternsDesc": "When Emma learns best",
+      "bestLearningTime": "Best Learning Time",
+      "preferredSubject": "Preferred Subject",
+      "learningStyle": "Learning Style",
+      "attentionSpan": "Attention Span",
+      "areasForGrowth": "Areas for Growth",
+      "areasForGrowthDesc": "Skills to focus on next"
+    }
+  }
+  ,
+  "volunteer": {
+    "header": {
+      "title": "Volunteer & Time Auction",
+      "subtitle": "Answer parent questions, earn hours, redeem rewards",
+      "start": "Start Earning Hours"
+    },
+    "ask": {
+      "title": "Need Help?",
+      "subtitle": "Get answers from experienced parents and teachers",
+      "submitQuestion": "Submit a Question",
+      "category": "Category",
+      "yourQuestion": "Your Question",
+      "placeholder": "Describe your child's learning challenge or ask for advice...",
+      "cancel": "Cancel",
+      "submit": "Submit"
+    },
+    "categories": {
+      "general": "General",
+      "phonics": "Phonics",
+      "reading": "Reading",
+      "homework": "Homework Help",
+      "motivation": "Motivation",
+      "resources": "Resources"
+    },
+    "roles": {
+      "formerK3Teacher": "Former K3 Teacher",
+      "parentOf3": "Parent of 3",
+      "childPsychologist": "Child Psychologist"
+    },
+    "badges": {
+      "goldMentor": "Gold Mentor",
+      "silverHelper": "Silver Helper",
+      "platinumExpert": "Platinum Expert"
+    },
+    "specialties": {
+      "phonics": "Phonics",
+      "reading": "Reading",
+      "homework": "Homework Help",
+      "motivation": "Motivation",
+      "learningDifficulties": "Learning Difficulties",
+      "development": "Development"
+    },
+    "impact": {
+      "title": "My Impact",
+      "subtitle": "Track your volunteer hours and rewards",
+      "thisMonth": "This Month: {{hours}}/{{goal}} hours",
+      "totalHours": "Total Hours",
+      "thisWeek": "This Week",
+      "rewards": "Rewards",
+      "redeem": "Redeem Rewards",
+      "leaderboard": "Leaderboard"
+    },
+    "volunteers": {
+      "title": "Available Volunteers",
+      "answers": "answers",
+      "hoursContributed": "{{hours}} hours contributed",
+      "answerQuestions": "Request Help",
+      "offline": "Offline",
+      "search": "Search Volunteers..."
+    },
+    "recent": {
+      "title": "Recent Questions",
+      "answered": "Answered"
+    },
+    "qna": {
+      "title": "Q&A Hub",
+      "subtitle": "Help parents and students with their learning questions",
+      "searchPlaceholder": "Search questions by title, content, or tags...",
+      "filters": {
+        "all": "All",
+        "urgent": "Urgent",
+        "unanswered": "Unanswered",
+        "answered": "Answered"
+      },
+      "priority": {
+        "urgent": "Urgent",
+        "normal": "Normal",
+        "low": "Low"
+      },
+      "status": {
+        "open": "Open",
+        "answered": "Answered", 
+        "resolved": "Resolved"
+      },
+      "actions": {
+        "answer": "Answer",
+        "submitAnswer": "Submit Answer",
+        "cancel": "Cancel"
+      },
+      "form": {
+        "yourAnswer": "Your Answer",
+        "answerPlaceholder": "Share your knowledge and help this parent...",
+        "submitted": "Answer submitted successfully!"
+      },
+      "stats": {
+        "questions": "Questions",
+        "upvotes": "upvotes",
+        "answers": "answers"
+      },
+      "empty": {
+        "title": "No questions found",
+        "subtitle": "Try adjusting your search terms or filters.",
+        "noResults": "Be the first to ask a question!"
+      }
+    },
+    "liveTutoring": {
+      "title": "Live Tutoring",
+      "subtitle": "Conduct one-on-one tutoring sessions with students",
+      "tabs": {
+        "upcoming": "Upcoming",
+        "live": "Live",
+        "completed": "Completed"
+      },
+      "session": {
+        "joinSession": "Join Session",
+        "startEarly": "Start Early",
+        "message": "Message",
+        "viewNotes": "View Notes"
+      },
+      "videoCall": {
+        "you": "You",
+        "live": "LIVE"
+      },
+      "time": {
+        "today": "Today",
+        "tomorrow": "Tomorrow"
+      },
+      "stats": {
+        "sessions": "Sessions"
+      },
+      "empty": {
+        "noLive": "No live sessions at the moment.",
+        "noUpcoming": "No upcoming sessions scheduled.",
+        "noCompleted": "No completed sessions yet."
+      }
+    }
+  }
+  ,
+  "progress": {
+    "header": {
+      "title": "Your Progress",
+      "subtitle": "Track your child's English learning journey",
+      "overallScore": "Overall Score"
+    },
+    "radar": {
+      "title": "Skills Overview",
+      "legend": {
+        "current": "Current Level",
+        "goal": "Goal Level"
+      }
+    },
+    "skills": {
+      "title": "Skills Breakdown",
+      "focusFirst": "Focus First",
+      "goalLabel": "Goal:",
+      "aboveGoal": " Above Goal ✓",
+      "onTrack": " On track, {{remaining}}% more to go!",
+      "alphabet": {
+        "name": "Alphabet",
+        "insight": "Fantastic progress! Ready for extra practice with letter pairs like b/d."
+      },
+      "sightWords": {
+        "name": "Sight Words",
+        "insight": "Great foundation! On track, just 15% more to go for the next milestone."
+      },
+      "vocabulary": {
+        "name": "Vocabulary",
+        "insight": "Wonderful word collection! Ahead of schedule and ready for new challenges."
+      },
+      "phonemicAwareness": {
+        "name": "Phonemic Awareness",
+        "insight": "Excellent listening skills! Blending sounds beautifully every day."
+      },
+      "pointAndRead": {
+        "name": "Point-and-Read",
+        "insight": "Amazing confidence! Reading independently like a champion."
+      }
+    },
+    "ai": {
+      "title": "Recommendations",
+      "subtitle": "Personalized activities to boost your child's learning",
+      "priority": "Priority",
+      "startPractice": "Start Practice",
+      "minutes_one": "{{count}} min",
+      "minutes_other": "{{count}} mins",
+      "proficiency": "proficiency",
+      "tip": "🎯 Start with priority activities for the biggest learning boost",
+      "recs": {
+        "0": {
+          "title": "Practice Sight Words",
+          "description": "Play \"find the word\" game in today's storybook."
+        },
+        "1": {
+          "title": "Letter Practice",
+          "description": "Trace lowercase letters \"b\" and \"d\" for clarity."
+        },
+        "2": {
+          "title": "Sound Matching",
+          "description": "Try sound-blending exercise in the student app."
+        }
+      }
+    },
+    "worksheets": {
+      "title": "Worksheet Records",
+      "subtitle": "Weekly worksheet submissions and progress",
+      "week": "Week {{number}}",
+      "submitted": "Submitted",
+      "pending": "Pending",
+      "notSubmitted": "Not Submitted",
+      "score": "Score: {{score}}/100",
+      "aiReport": "AI Report",
+      "teacherComment": "Teacher Comment",
+      "viewDetails": "View Details",
+      "submittedOn": "Submitted on {{date}}",
+      "noComment": "No teacher comment yet",
+      "aiAnalysis": "AI Analysis",
+      "strengths": "Strengths",
+      "improvements": "Areas for Improvement",
+      "overallProgress": "Overall Progress"
+    },
+    "trend": {
+      "title": "Overall Score Trend",
+      "milestone1": "Mar: Reached 30 sight words",
+      "milestone2": "May: Completed alphabet mastery",
+      "motivation": "Great Progress! +15% improvement this month 🎉"
+    }
+  }
+  ,
+  "discussions": {
+    "header": "Discussions",
+    "searchPlaceholder": "Search discussions...",
+    "tabs": {
+      "help": "Get Help",
+      "give": "Give Help",
+      "resources": "Shared Resources",
+      "groups": "Practice Groups"
+    },
+    "help": {
+      "title": "Need Help?",
+      "askQuestion": "Ask Question",
+      "replies": "replies"
+    },
+    "give": {
+      "title": "Help Others & Earn Points",
+      "urgent": "Urgent",
+      "pts": "pts"
+    },
+    "resources": {
+      "title": "Shared Resources",
+      "share": "Share Resource",
+      "by": "By",
+      "downloads": "downloads"
+    },
+    "groups": {
+      "title": "Practice Groups",
+      "create": "Create Group",
+      "members": "members",
+      "join": "Join Group"
+    }
+  },
+  "forgotPassword": {
+    "titleEmail": "Reset Password",
+    "titleSent": "Check Your Email",
+    "subtitleEmail": "Enter your email to receive reset instructions",
+    "subtitleSent": "We've sent you a password reset link",
+    "backToSignIn": "Back to sign in",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "sending": "Sending Reset Link...",
+    "send": "Send Reset Link",
+    "remember": "Remember your password? ",
+    "signIn": "Sign in",
+    "sentTitle": "Reset Link Sent!",
+    "sentTo": "We've sent a password reset link to ",
+    "nextSteps": "Next Steps",
+    "steps": {
+      "check": "Check your email inbox",
+      "click": "Click the password reset link",
+      "create": "Create a new password",
+      "signin": "Sign in with your new password"
+    },
+    "openEmail": "Open Email App",
+    "noEmail": "Didn't receive the email? ",
+    "tryAgain": "Try again"
+  },
+  "volunteer": {
+    "dashboard": {
+      "greeting": "Hi, {{name}} 👋",
+      "thankYou": "Thank you for continuing to bring warmth and support to community families",
+      "timeAuction": {
+        "title": "Time Auction",
+        "subtitle": "Volunteer Skills Platform • Volunteer for Experiences",
+        "availableHours": "Available Hours:",
+        "redeemNow": "Redeem Now"
+      },
+      "stats": {
+        "yourContribution": "Your Contribution",
+        "monthlyNew": "Added {{hours}} hours this month ✨",
+        "totalServiceHours": "Total Service Hours",
+        "familiesHelped": "Families Helped",
+        "weeklyNew": "+{{count}} new this week"
+      },
+      "aiRecommendations": {
+        "title": "AI Recommended Families for You",
+        "suggestions": "{{count}} suggestions",
+        "urgency": {
+          "high": "Urgent",
+          "medium": "Normal",
+          "low": "Non-urgent"
+        },
+        "reason": "Recommendation reason: {{reason}}",
+        "sendMessage": "Send Message to Help",
+        "lastActivity": {
+          "justNow": "Just now",
+          "daysAgo": "{{count}} days ago",
+          "dayAgo": "{{count}} day ago"
+        }
+      },
+      "families": {
+        "emma": "Emma's Family",
+        "lucas": "Lucas's Family", 
+        "sophie": "Sophie's Family",
+        "problems": {
+          "bdConfusion": "Child has difficulty distinguishing 'b' and 'd'",
+          "homeEnvironment": "Parents don't know how to create an English learning environment at home",
+          "motivation": "Child lacks interest and motivation in English learning"
+        },
+        "aiReasons": {
+          "phonicsExperience": "You have rich experience in 'Phonics'",
+          "similarSuccess": "You have successfully helped families in similar situations",
+          "motivationSkills": "You are good at inspiring children's learning enthusiasm"
+        },
+        "tags": {
+          "pronunciationRecognition": "Pronunciation Recognition",
+          "readingBasics": "Reading Basics",
+          "homeEducation": "Home Education",
+          "learningEnvironment": "Learning Environment",
+          "learningMotivation": "Learning Motivation",
+          "interestCultivation": "Interest Cultivation"
+        }
+      },
+      "rewards": {
+        "title": "Time Auction Rewards",
+        "subtitle": "Volunteer for Experiences",
+        "currentHours": "You currently have: {{hours}} service hours",
+        "items": {
+          "artJamming": {
+            "title": "1.5 Hour Art Creation Experience",
+            "subtitle": "Art Jamming Session",
+            "description": "Enjoy creative time in a professional art studio",
+            "location": "Central Art Center"
+          },
+          "coffeeWorkshop": {
+            "title": "Premium Coffee Tasting Course",
+            "subtitle": "Coffee Cupping Workshop",
+            "description": "Learn professional coffee tasting techniques",
+            "location": "Causeway Bay Coffee Academy"
+          },
+          "hiking": {
+            "title": "Weekend Hiking Adventure",
+            "subtitle": "Weekend Hiking Adventure",
+            "description": "Enjoy outdoor time with other volunteers",
+            "location": "Tai Mo Shan"
+          },
+          "photography": {
+            "title": "Professional Photography Workshop",
+            "subtitle": "Photography Masterclass",
+            "description": "Professional course to improve photography skills",
+            "location": "Tsim Sha Tsui Photography Center"
+          },
+          "boardGame": {
+            "title": "Board Game Design Experience",
+            "subtitle": "Board Game Design Workshop", 
+            "description": "Design your own board game",
+            "location": "Mong Kok Creative Space"
+          },
+          "dinner": {
+            "title": "Volunteer Appreciation Dinner",
+            "subtitle": "Volunteer Appreciation Dinner",
+            "description": "Dine with REACH team and other volunteers",
+            "location": "Central Restaurant"
+          }
+        },
+        "status": {
+          "available": "Available",
+          "full": "Full",
+          "spotsLeft": "{{count}} spots",
+          "redeem": "Redeem Now",
+          "needMore": "Need {{hours}} hours"
+        }
+      }
+    },
+    "header": {
+      "title": "Volunteer & Time Auction",
+      "subtitle": "Answer parent questions, earn hours, redeem rewards",
+      "start": "Start Earning Hours"
+    },
+    "ask": {
+      "title": "Need Help?",
+      "subtitle": "Get answers from experienced parents and teachers",
+      "submitQuestion": "Submit a Question",
+      "category": "Category",
+      "yourQuestion": "Your Question",
+      "placeholder": "Describe your child's learning challenge or ask for advice...",
+      "cancel": "Cancel",
+      "submit": "Submit"
+    },
+    "categories": {
+      "general": "General",
+      "phonics": "Phonics",
+      "reading": "Reading",
+      "homework": "Homework Help",
+      "motivation": "Motivation",
+      "resources": "Resources"
+    },
+    "roles": {
+      "formerK3Teacher": "Former K3 Teacher",
+      "parentOf3": "Parent of 3",
+      "childPsychologist": "Child Psychologist"
+    },
+    "badges": {
+      "goldMentor": "Gold Mentor",
+      "silverHelper": "Silver Helper",
+      "platinumExpert": "Platinum Expert"
+    },
+    "specialties": {
+      "phonics": "Phonics",
+      "reading": "Reading",
+      "homework": "Homework Help",
+      "motivation": "Motivation",
+      "learningDifficulties": "Learning Difficulties",
+      "development": "Development"
+    },
+    "impact": {
+      "title": "My Impact",
+      "subtitle": "Track your volunteer hours and rewards",
+      "thisMonth": "This Month: {{hours}}/{{goal}} hours",
+      "totalHours": "Total Hours",
+      "thisWeek": "This Week",
+      "rewards": "Rewards",
+      "redeem": "Redeem Rewards",
+      "leaderboard": "Leaderboard"
+    },
+    "volunteers": {
+      "title": "Available Volunteers",
+      "answers": "answers",
+      "hoursContributed": "{{hours}} hours contributed",
+      "answerQuestions": "Request Help",
+      "offline": "Offline",
+      "search": "Search Volunteers..."
+    },
+    "recent": {
+      "title": "Recent Questions",
+      "answered": "Answered"
+    },
+    "qna": {
+      "title": "Q&A Hub",
+      "subtitle": "Help parents and students with their learning questions",
+      "searchPlaceholder": "Search questions by title, content, or tags...",
+      "filters": {
+        "all": "All",
+        "urgent": "Urgent",
+        "answered": "Answered",
+        "unanswered": "Unanswered"
+      },
+      "form": {
+        "title": "Ask a Question",
+        "category": "Category",
+        "question": "Your Question",
+        "placeholder": "Ask your question here...",
+        "submit": "Submit Question",
+        "cancel": "Cancel"
+      },
+      "question": {
+        "by": "by",
+        "timeAgo": "{{time}} ago",
+        "answers": "{{count}} answers",
+        "upvotes": "upvotes",
+        "answerPlaceholder": "Type your answer here...",
+        "submitAnswer": "Submit Answer",
+        "upvote": "Upvote",
+        "downvote": "Downvote"
+      },
+      "stats": {
+        "totalQuestions": "Total Questions",
+        "answered": "Answered",
+        "avgResponseTime": "Avg Response Time",
+        "yourRank": "Your Rank",
+        "topVolunteers": "Top Volunteers This Month"
+      },
+      "empty": {
+        "title": "No questions found",
+        "subtitle": "Try adjusting your search terms or filters.",
+        "askFirst": "Be the first to ask a question!"
+      }
+    },
+    "liveTutoring": {
+      "title": "Live Tutoring",
+      "subtitle": "Conduct one-on-one tutoring sessions with students",
+      "schedule": "Schedule Session",
+      "upcoming": "Upcoming Sessions",
+      "completed": "Completed Sessions",
+      "earnings": "Session Earnings",
+      "sessionDetails": {
+        "student": "Student",
+        "subject": "Subject",
+        "duration": "Duration",
+        "rate": "Rate",
+        "total": "Total"
+      },
+      "availability": {
+        "title": "Set Your Availability",
+        "selectTimes": "Select your available time slots",
+        "save": "Save Availability"
+      }
+    }
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "subtitle": "See how you rank among other learners",
+    "hiddenTitle": "Leaderboard hidden",
+    "hiddenDesc": "You have opted out. You won't appear on the leaderboard until you opt back in.",
+    "tabs": {
+      "overall": "Top Points",
+      "improved": "Most Improved"
+    },
+    "overall": {
+      "topPerformers": "Top Performers",
+      "you": "You",
+      "dayStreak": "day streak",
+      "points": "points"
+    },
+    "improved": {
+      "title": "Most Improved This Week",
+      "rising": "Rising"
+    },
+    "pointsInfo": {
+      "title": "How to Earn Points",
+      "submit": "Submit assignment",
+      "help": "Help in discussions",
+      "join": "Join practice group",
+      "streak": "Daily login streak",
+      "plus50": "+50 pts",
+      "plus75": "+75 pts",
+      "plus25": "+25 pts",
+      "plus10": "+10 pts"
+    },
+    "optOut": "Opt out of leaderboard",
+    "optIn": "Opt in to leaderboard",
+    "leagues": {
+      "bronze": "Bronze League",
+      "silver": "Silver League", 
+      "gold": "Gold League",
+      "diamond": "Diamond League"
+    },
+    "currentTeam": {
+      "name": "Our Family"
+    },
+    "points": "points",
+    "totalScore": "Total Score",
+    "highFives": "High Fives",
+    "promotionZone": {
+      "title": "Sprint to Promotion!",
+      "desc": "Top 3 advance next week 🚀"
+    },
+    "demotionZone": {
+      "title": "Practice Zone",
+      "desc": "Bottom 2 need more practice 💪"
+    },
+    "me": "Me",
+    "ranking": "Ranking",
+    "rank": "Rank {{rank}}",
+    "teamProfile": "Team Profile",
+    "scoreBreakdown": "Score Sources",
+    "coopMissions": "Co-op Missions",
+    "courseLearning": "Course Learning",
+    "pointsUnit": "pts",
+    "learningProgress": "Learning Progress",
+    "liked": "Liked",
+    "giveHighFive": "Give High-Five 🙌",
+    "bonusTasks": "Bonus Tasks",
+    "bonusTasksDesc": "Complete these tasks for extra points!",
+    "bonusTask1": {
+      "title": "Upload Worksheet",
+      "desc": "Upload completed practice worksheets"
+    },
+    "bonusTask2": {
+      "title": "Watch Tutorial Video",
+      "desc": "Watch complete tutorial videos"
+    },
+    "bonusTask3": {
+      "title": "Parent-Child Pronunciation Practice",
+      "desc": "Practice pronunciation with your child"
+    }
+  }
+}
+
+

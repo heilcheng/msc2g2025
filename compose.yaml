@@ -1,0 +1,38 @@
+name: platform_projectreach
+services:
+  nginx:
+    image: nginx:1.17
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+    ports:
+      - 8000:80
+    depends_on:
+      - backend
+      - frontend
+  frontend:
+    image: platform_projectreach/frontend
+    build: ./frontend
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=development
+      - WDS_SOCKET_PORT=0
+    expose:
+      - "3000"
+    ports:
+      - "3000:3000"
+    command: "pnpm run dev"
+  backend:
+    image: platform_projectreach/backend
+    build: ./backend
+    volumes:
+      - ./backend/:/usr/src/app
+    expose:
+      - "3001"
+    ports:
+      - "3001:3001"
+    command: "python src/server.py"
+    environment:
+      - DEBUG=true
+    env_file:
+      - path: ./.env
+        required: true

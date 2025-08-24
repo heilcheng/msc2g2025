@@ -1,0 +1,1411 @@
+{
+  "login": {
+    "title": "歡迎回來",
+    "subtitle": "登入以繼續你的學習旅程",
+    "signInWith": "使用以下方式登入",
+    "email": "電郵",
+    "phone": "電話",
+    "username": "用戶名",
+    "emailPlaceholder": "輸入你的電郵",
+    "phonePlaceholder": "輸入你的電話號碼",
+    "usernamePlaceholder": "輸入你的用戶名",
+    "identifierLabelEmail": "電郵",
+    "identifierLabelPhone": "電話號碼",
+    "identifierLabelUsername": "用戶名",
+    "password": "密碼",
+    "passwordPlaceholder": "輸入你的密碼",
+    "forgotPassword": "忘記密碼？",
+    "signIn": "登入",
+    "signingIn": "登入中...",
+    "or": "或",
+    "continueWithGoogle": "以 Google 繼續",
+    "connecting": "連接中...",
+    "signupPrompt": "還沒有帳戶？",
+    "signupLink": "註冊",
+    "errorLoginFailed": "登入失敗",
+    "errorGoogleFailed": "Google 登入失敗"
+  },
+  "signup": {
+    "titles": {
+      "method": "建立帳戶",
+      "details": "帳戶詳情",
+      "complete": "歡迎來到 REACH！"
+    },
+    "subtitles": {
+      "method": "選擇你的註冊方式",
+      "details": "填寫你的帳戶資料",
+      "complete": "你的帳戶已成功建立"
+    },
+    "signUpWith": "使用以下方式註冊",
+    "emailAddress": "電郵地址",
+    "phoneNumber": "電話號碼",
+    "manualVerification": "手動驗證",
+    "errorRequired": "請填寫必填欄位",
+    "errorAllFieldsRequired": "請填寫所有必填欄位",
+    "selectRole": "選擇您的角色",
+    "roleParent": "家長",
+    "roleVolunteer": "志願者",
+    "roleParentDescription": "我有孩子將與REACH一起學習",
+    "roleVolunteerDescription": "我想當志願者幫助學生學習",
+    "verifying": "驗證中...",
+    "continue": "繼續",
+    "or": "或",
+    "connecting": "連接中...",
+    "continueWithGoogle": "以 Google 繼續",
+    "alreadyHave": "已經有帳戶？",
+    "signIn": "登入",
+    "username": "用戶名",
+    "usernamePlaceholder": "輸入你的用戶名",
+    "password": "密碼",
+    "createPassword": "建立密碼",
+    "confirmPassword": "確認密碼",
+    "confirmYourPassword": "確認你的密碼",
+    "studentName": "學生姓名",
+    "studentNamePlaceholder": "輸入學生全名",
+    "parentName": "家長姓名",
+    "parentNamePlaceholder": "輸入家長全名",
+    "school": "學校",
+    "schoolPlaceholder": "輸入學校名稱",
+    "creatingAccount": "建立帳戶中...",
+    "createAccount": "建立帳戶",
+    "successAccountCreated": "帳戶已建立！",
+    "successWelcome": "歡迎來到 REACH Hong Kong。你現在可以開始學習旅程。",
+    "labelUsername": "用戶名：",
+    "labelContact": "聯絡方式：",
+    "viaInvitation": "透過邀請",
+    "continueToDashboard": "前往主頁",
+    "signInExisting": "登入現有帳戶",
+    "errorPasswordMismatch": "密碼不一致",
+    "errorPasswordShort": "密碼至少需要 6 個字元",
+    "errorSignupFailed": "註冊失敗",
+    "errorGoogleFailed": "Google 註冊失敗"
+  },
+  "settings": {
+    "title": "設定",
+    "appearance": "外觀",
+    "theme": "主題",
+    "themeDesc": "選擇您偏好的色彩配置",
+    "lightMode": "淺色",
+    "darkMode": "深色",
+    "systemMode": "系統",
+    "accessibility": "無障礙",
+    "largeText": "大字體",
+    "largeTextDesc": "增加整體字型大小",
+    "highContrast": "高對比度",
+    "highContrastDesc": "增強文字和介面的對比度以提升可視性",
+    "reduceMotion": "減少動作",
+    "reduceMotionDesc": "減少動畫和過場效果",
+    "soundEffects": "音效",
+    "soundEffectsDesc": "為互動提供聲音回饋",
+    "enhancedFocus": "增強焦點",
+    "enhancedFocusDesc": "為鍵盤導航顯示清晰的焦點指示器",
+    "screenReaderMode": "螢幕閱讀器模式",
+    "screenReaderModeDesc": "為螢幕閱讀器優化介面",
+    "resetAccessibility": "重設所有無障礙設定",
+    "accessibilityHelp": "無障礙說明與指南",
+    "profile": "個人資料",
+    "editProfile": "編輯個人資料",
+    "notifications": "通知",
+    "assignmentReminders": "作業提醒",
+    "assignmentRemindersDesc": "接收到期通知",
+    "communityUpdates": "社群更新",
+    "communityUpdatesDesc": "新討論與回覆",
+    "achievementBadges": "成就徽章",
+    "achievementBadgesDesc": "當你獲得新徽章時",
+    "privacy": "私隱與安全",
+    "anonymousMode": "匿名模式",
+    "anonymousModeDesc": "在討論中隱藏你的名字",
+    "changePassword": "更改密碼",
+    "support": "支援",
+    "helpCenter": "說明中心",
+    "contactSupport": "聯絡支援",
+    "reportProblem": "回報問題",
+    "leaderboardVisibility": "顯示排行榜",
+    "leaderboardVisibilityDesc": "在導航中顯示排行榜並允許排名"
+  },
+  "home": {
+    "headerTitle": "Emma 的學習旅程",
+    "headerSubtitle": "K3 年級 • 家長主頁",
+    "thisWeek": "本週",
+    "upload": "上載",
+    "aiInsights": "洞察",
+    "viewExercises": "查看練習",
+    "progressSnapshot": "進度概覽",
+    "daysStreak": "連續天數",
+    "activityHours": "活動時數",
+    "starsEarned": "獲得星星",
+    "modalUploadWorksheet": "上載工作紙",
+    "uploading": "上載中...",
+    "processingWorksheet": "正在處理你的工作紙",
+    "uploadedSuccessfully": "工作紙已成功上載",
+    "uploadedWorksheet": "已上載的工作紙",
+    "worksheetPreview": "工作紙預覽",
+    "sightWordTask": "常見字圍圈任務",
+    "analyzing": "正在分析筆跡與答案...",
+    "takes3060": "通常需要 30-60 秒",
+    "analysisComplete": "分析完成",
+    "emmaReviewed": "Emma 的工作紙已檢視",
+    "progressUpdated": "進度已更新",
+    "progressDelta": "+2% 詞彙進度 • +1% 音韻覺識",
+    "aiFeedback": "AI 意見",
+    "whatWentWell": "做得好的地方",
+    "needsPractice": "需要改進",
+    "generalNotes": "一般備註",
+    "viewPastAssignments": "查看過往作業",
+    "suggestedNextSteps": "建議下一步",
+    "viewRecommendedPractice": "查看建議練習",
+    "downloadExtraWorksheet": "下載額外工作紙（PDF）",
+    "done": "完成",
+    "signOut": "登出",
+    "start": "開始",
+    "weeklyTasks": {
+      "0": {
+        "title": "上傳工作紙",
+        "subtitle": "第 12 週－字母練習"
+      },
+      "1": {
+        "title": "觀看教學影片",
+        "subtitle": "字母辨識技巧"
+      },
+      "2": {
+        "title": "確認功課遞交",
+        "subtitle": "今日 6:00 截止"
+      },
+      "3": {
+        "title": "實時輔導課程",
+        "subtitle": "閱讀理解 - 明天下午 2:00"
+      }
+    },
+    "aiInsight": {
+      "sentence": "Emma 在昨日的工作紙中把 <bold>b</bold> 與 <bold>d</bold> 顛倒。建議額外練習 {{minutes}} 分鐘。"
+    },
+    "stats": {
+      "title": "統計",
+      "excellent": "太棒了！",
+      "amazing": "進步神速",
+      "learning": "連續學習",
+      "vocabulary": "新詞彙"
+    },
+    "highlights": {
+      "title": "學習亮點",
+      "wellDone": "做得很好！",
+      "description": "Emma 已經掌握了{{percentage}}% 的常見詞彙，而且在語音識別方面表現出色。",
+      "badges": {
+        "vocabulary": "詞彙大師",
+        "pronunciation": "發音進步"
+      }
+    },
+    "progress": {
+      "title": "進度",
+      "recognition": "識別進度",
+      "completed": "已完成"
+    },
+    "learningPath": "學習路徑",
+    "challenge": {
+      "title": "今日挑戰：擊敗 b 和 d！"
+    }
+  },
+  "common": {
+    "or": "或",
+    "signOut": "登出",
+    "settings": "設定"
+  },
+  "admin": {
+    "title": "NGO 管理員面板",
+    "subtitle": "追蹤所有 REACH 計劃的學生表現和學習分析",
+    "overview": "概覽",
+    "students": "學生",
+    "performance": "表現",
+    "analytics": "分析",
+    "reports": "報告",
+    "totalStudents": "總學生數",
+    "averageScore": "平均分數",
+    "totalAttempts": "總嘗試次數",
+    "avgTimePerAttempt": "平均每次嘗試時間",
+    "activeToday": "今日活躍",
+    "weeklyProgress": "每週進度趨勢",
+    "weeklyProgressDesc": "所有學生的平均分數和活動",
+    "regionalPerformance": "地區表現",
+    "regionalPerformanceDesc": "香港各地區的平均分數",
+    "ageGroupPerformance": "年齡組表現",
+    "ageGroupPerformanceDesc": "按年齡組的平均分數",
+    "subjectOverview": "科目表現概覽",
+    "subjectOverviewDesc": "所有科目的平均分數",
+    "studentDirectory": "學生名錄",
+    "studentDirectoryDesc": "所有註冊學生的綜合清單及表現指標",
+    "searchStudents": "搜尋學生...",
+    "filter": "篩選",
+    "overallScore": "總分",
+    "attempts": "嘗試次數",
+    "total": "總計",
+    "dayStreak": "天連續",
+    "lastActive": "最後活躍",
+    "view": "查看",
+    "priorityActionCenter": "優先行動中心",
+    "priorityActionCenterDesc": "需要立即關注的學生和家長",
+    "studentWatchlist": "學生關注名單",
+    "needsAttention": "需要關注",
+    "inactiveParents": "長期未上線家長",
+    "inactive": "未活躍",
+    "daysAgo": "天前",
+    "sendReminder": "發送提醒",
+    "viewDetails": "查看詳情",
+    "viewAll": "查看全部",
+    "more": "更多",
+    "engagement": "活躍度",
+    "progress": "進度",
+    "retention": "留存率",
+    "dailyActiveStudents": "每日活躍學生",
+    "weeklyReturnRate": "週回訪率",
+    "keyInsights": "重點洞察",
+    "learningTrendAnalysis": "學習趨勢分析",
+    "learningTrendDesc": "學生進度的全面時間軸視圖",
+    "subjectSnapshot": "科目表現快照",
+    "subjectSnapshotDesc": "所有科目表現的快速概覽",
+    "insights": "洞察",
+    "keyMetrics": "關鍵績效指標",
+    "keyMetricsDesc": "一目了然的重要指標",
+    "learningIntelligence": "學習智能分析",
+    "learningIntelligenceDesc": "AI驱動的學習模式洞察",
+    "exportReports": "匯出報告",
+    "exportReportsDesc": "為持份者生成詳細報告",
+    "englishLearning": "英語學習平台",
+    "learningInsights": "學習洞察",
+    "learningJourney": "學習旅程",
+    "learningJourneyDesc": "每個孩子的進步都在訴說一個故事",
+    "currentAverage": "目前平均分",
+    "excellentProgress": "本季度進步優秀！",
+    "skillsMastery": "技能掌握情況",
+    "skillsMasteryDesc": "我們的小朋友學得怎麼樣？",
+    "exercises": "練習",
+    "subjectComparison": "科目表現比較",
+    "subjectComparisonDesc": "學習領域的詳細分析",
+    "learningEfficiency": "學習效率",
+    "learningEfficiencyDesc": "平均嘗試次數與花費時間分析",
+    "detailedMetrics": "詳細表現指標",
+    "detailedMetricsDesc": "學生學習模式的綜合分析",
+    "subject": "科目",
+    "avgScore": "平均分數",
+    "avgTime": "平均時間",
+    "successRate": "成功率",
+    "difficultyIndex": "難度指數",
+    "engagementMetrics": "參與度指標",
+    "dailyActiveUsers": "每日活躍用戶",
+    "avgSessionTime": "平均會話時間",
+    "completionRate": "完成率",
+    "returnRate": "回歸率",
+    "learningInsights": "學習洞察",
+    "mostDifficult": "最難主題",
+    "fastestImprovement": "進步最快",
+    "peakLearningTime": "學習高峰時間",
+    "avgQuestionsPerSession": "每會話平均問題數",
+    "regionalStats": "地區統計",
+    "generateReports": "生成報告",
+    "generateReportsDesc": "為利益相關者和資助者創建詳細報告",
+    "performanceReport": "表現報告",
+    "studentSummary": "學生摘要",
+    "progressReport": "進度報告",
+    "regionalAnalysis": "地區分析",
+    "timeAnalytics": "時間分析",
+    "exportData": "匯出資料",
+    "exportAllData": "匯出所有資料",
+    "age": "年齡",
+    "region": "地區",
+    "kindergarten": "幼稚園",
+    "grade": "年級",
+    "enrollment": "註冊日期",
+    "streak": "連續天數",
+    "timeSpent": "花費時間",
+    "alphabet": "字母",
+    "sightWords": "常見字",
+    "vocabulary": "詞彙",
+    "phonics": "語音",
+    "high": "高",
+    "medium": "中",
+    "low": "低",
+    "centralHongKong": "香港島中西區",
+    "kowloonEast": "九龍東",
+    "kowloonWest": "九龍西",
+    "newTerritories": "新界",
+    "years": "歲",
+    "students": "學生"
+  },
+  "components": {
+    "assignmentCard": {
+      "status": {
+        "overdue": "逾期",
+        "submitted": "已提交",
+        "graded": "已評分",
+        "pending": "待處理"
+      },
+      "labels": {
+        "dueDate": "到期日",
+        "estTime": "預計時間",
+        "grade": "分數"
+      },
+      "actions": {
+        "viewDetails": "查看詳情",
+        "submitWork": "提交作業",
+        "viewSubmission": "查看提交"
+      }
+    },
+    "communityCard": {
+      "badges": {
+        "pinned": "置頂",
+        "popular": "熱門",
+        "volunteer": "義工"
+      },
+      "by": "由",
+      "anonymousParent": "匿名家長"
+    },
+    "dashboardNav": {
+      "overview": "總覽",
+      "assignments": "作業",
+      "dashboard": "儀表板",
+      "community": "社群",
+      "settings": "設定"
+    },
+    "mobileNav": {
+      "home": "主頁",
+      "progress": "進度",
+      "community": "社群",
+      "help": "幫助",
+      "leaderboard": "排行榜",
+      "volunteerLeaderboard": "排行榜",
+      "volunteer": "義工",
+      "qna": "問答",
+      "liveTutoring": "實時輔導"
+    },
+    "routeGuard": {
+      "loading": "載入中...",
+      "checkingAuth": "正在檢查身份驗證"
+    }
+  },
+  "assignments": {
+    "list": {
+      "title": "作業中心",
+      "subtitle": "查看作業、提交作品，並追蹤孩子的學習進度",
+      "searchPlaceholder": "搜尋作業...",
+      "filterBySubject": "按科目篩選",
+      "subjects": {
+        "all": "所有科目",
+        "english": "英文",
+        "mathematics": "數學",
+        "science": "常識",
+        "art": "視藝"
+      },
+      "filterByStatus": "按狀態篩選",
+      "statuses": {
+        "all": "所有狀態",
+        "pending": "待處理",
+        "submitted": "已提交",
+        "graded": "已評分",
+        "overdue": "逾期"
+      },
+      "labels": {
+        "dueDate": "到期日",
+        "estTime": "預計時間",
+        "grade": "分數"
+      },
+      "actions": {
+        "viewDetails": "查看詳情",
+        "submitWork": "提交作業",
+        "viewSubmission": "查看提交"
+      },
+      "empty": {
+        "title": "未找到作業",
+        "description": "稍後再回來查看老師發佈的新作業。"
+      }
+    },
+    "detail": {
+      "header": "作業詳情",
+      "reach": "REACH Hong Kong",
+      "dueDate": "到期日",
+      "instructions": "指引",
+      "materials": "作業檔案",
+      "materialsDesc": "下載這些檔案以完成作業",
+      "download": "下載",
+      "info": "作業資訊",
+      "teacher": "老師",
+      "points": "分數",
+      "estTime": "預計時間",
+      "status": "狀態",
+      "acceptedFormats": "可接受格式",
+      "submitYourWork": "提交你的作品",
+      "submitDesc": "上載已完成作業的相片、影片或文件",
+      "submitAssignment": "提交作業",
+      "dueIn": "剩餘",
+      "days": "天",
+      "viewSubmission": "查看提交",
+      "editSubmission": "編輯提交",
+      "help": "需要幫助？",
+      "askForum": "在討論區發問",
+      "parentGuide": "家長指南"
+    },
+    "discussion": {
+      "header": "作業討論",
+      "help": "獲取幫助並分享此作業的技巧",
+      "messagesCount": "條訊息",
+      "lastActivity": "最後活動：",
+      "reply": "回覆",
+      "join": "加入討論",
+      "joinDesc": "就此作業發問或分享技巧",
+      "placeholder": "輸入你的問題或分享小貼士...",
+      "postAnonymously": "匿名發佈",
+      "cancel": "取消",
+      "postMessage": "發佈留言"
+    },
+    "submit": {
+      "header": "提交作業",
+      "reach": "REACH Hong Kong",
+      "submitDesc": "提交你的完成作品以供評分和回饋",
+      "dueDate": "到期日",
+      "uploadYourWork": "上載你的作品",
+      "uploadDesc": "上載已完成作業的相片、影片或文件",
+      "dragDrop": "拖放檔案到此",
+      "orClick": "或點擊以瀏覽你的裝置",
+      "chooseFiles": "選擇檔案",
+      "supported": "支援：圖片、影片、PDF（每個最多 10MB）",
+      "uploadedFiles": "已上載檔案",
+      "additionalNotes": "附加備註",
+      "additionalNotesDesc": "可加入任何關於提交的評論或備註（選填）",
+      "notesPlaceholder": "告訴老師你的作品、遇到的挑戰或問題...",
+      "uploading": "上載中...",
+      "submissionGuidelines": "提交指引",
+      "guidelines": {
+        "clearMedia": "拍攝清晰的相片或影片",
+        "readableText": "確保文字清晰可讀",
+        "includeName": "請在作品上寫上孩子名字",
+        "beforeDue": "請於到期日前提交"
+      },
+      "acceptedFormats": "可接受格式",
+      "submitting": "提交中...",
+      "submitAssignment": "提交作業",
+      "uploadAtLeastOne": "請至少上載一個檔案再提交"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "header": "REACH 管理後台",
+      "subtitle": "數據分析與學生管理",
+      "filters": {
+        "allStudents": "所有學生",
+        "k3Only": "僅 K3",
+        "activeOnly": "僅活躍"
+      },
+      "exportData": "匯出數據",
+      "tabs": {
+        "overview": "概覽",
+        "students": "學生",
+        "assignments": "作業",
+        "community": "社群",
+        "reports": "報表"
+      },
+      "overview": {
+        "totalStudents": "學生總數",
+        "activeAssignments": "活躍作業",
+        "submissionRate": "提交率",
+        "avgGrade": "平均分",
+        "forumPosts": "論壇貼文",
+        "volunteerHours": "義工時數",
+        "submissionTrendsTitle": "作業提交趨勢",
+        "submissionTrendsDesc": "每週提交模式與準時率",
+        "gradeDistributionTitle": "成績分佈",
+        "gradeDistributionDesc": "整體學生表現概況",
+        "engagementTitle": "平台每日參與度",
+        "engagementDesc": "學習時數與社群活動",
+        "series": {
+          "learningHours": "學習時數",
+          "forumPosts": "論壇貼文",
+          "submissions": "提交數",
+          "onTime": "準時",
+          "late": "遲交"
+        }
+      },
+      "students": {
+        "subjectPerformanceTitle": "科目表現總覽",
+        "subjectPerformanceDesc": "各科平均分與完成率",
+        "statusOverviewTitle": "學生狀態總覽",
+        "statusOverviewDesc": "目前參與程度",
+        "activeStudents": "活躍學生",
+        "atRisk": "有風險",
+        "inactive": "不活躍",
+        "studentManagement": "學生管理",
+        "filter": "篩選",
+        "export": "匯出",
+        "studentTrackingDesc": "學生個別進度與參與度追蹤",
+        "avgScore": "平均分",
+        "submissions": "提交數",
+        "lastActive": "最後上線",
+        "viewDetails": "查看詳情",
+        "dueDate": "到期日",
+        "submitted": "提交日期",
+        "notSubmitted": "未提交",
+        "teacherFeedback": "老師回饋",
+        "subjectProgressTitle": "科目進度",
+        "subjectProgressDesc": "各科目前表現",
+        "learningGoalsTitle": "學習目標",
+        "learningGoalsDesc": "需要改善與專注的範疇",
+        "focusArea": "需要專注",
+        "strength": "強項",
+        "achievement": "成就"
+      },
+      "assignments": {
+        "statsTitle": "作業統計",
+        "totalAssignments": "作業總數",
+        "currentlyActive": "目前活躍",
+        "avgCompletionRate": "平均完成率",
+        "avgGrade": "平均分",
+        "timelinessTitle": "提交時效",
+        "onTime": "準時",
+        "late": "遲交",
+        "missing": "未交",
+        "gradingStatusTitle": "評分狀態",
+        "graded": "已評分",
+        "pendingReview": "待審閱",
+        "aiPreGraded": "AI 預評分",
+        "trendsTitle": "作業表現趨勢",
+        "trendsDesc": "平均分與提交率趨勢"
+      },
+      "community": {
+        "totalPosts": "貼文總數",
+        "activeUsers": "活躍用戶",
+        "volunteerHours": "義工時數",
+        "engagementRate": "互動率",
+        "activityTrendsTitle": "社群活動趨勢",
+        "activityTrendsDesc": "論壇貼文與參與度"
+      },
+      "reports": {
+        "generateReports": "產生報表",
+        "generateReportsDesc": "建立詳細的分析報表",
+        "studentProgressReport": "學生進度報告",
+        "assignmentAnalytics": "作業分析",
+        "communityEngagement": "社群互動",
+        "platformUsage": "平台使用統計",
+        "quickInsights": "重點洞察",
+        "quickInsightsDesc": "關鍵發現與建議",
+        "positiveTrend": "正面趨勢",
+        "positiveTrendDesc": "本月提交率提升了 12%",
+        "attentionNeeded": "需要關注",
+        "attentionNeededDesc": "有 12 位學生參與度下降",
+        "opportunity": "機會",
+        "opportunityDesc": "數學作業有最高完成率"
+      }
+    },
+    "student": {
+      "header": "學生檔案",
+      "contactParent": "聯絡家長",
+      "generateReport": "產生報告",
+      "studentInfo": "學生資訊",
+      "parent": "家長",
+      "email": "電郵",
+      "phone": "電話",
+      "enrolled": "入學日期",
+      "status": "狀態",
+      "active": "活躍",
+      "quickStats": "快速數據",
+      "avgScore": "平均分",
+      "submissions": "提交數",
+      "onTimeRate": "準時率",
+      "lastActive": "最後上線",
+      "tabs": {
+        "overview": "概覽",
+        "assignments": "作業",
+        "progress": "進度",
+        "activity": "活動"
+      },
+      "overview": {
+        "performanceTitle": "學術表現趨勢",
+        "performanceDesc": "過去四週各科表現",
+        "skillsTitle": "技能評估",
+        "skillsDesc": "各方面的目前技能水平",
+        "skillsSeries": "技能"
+      },
+      "assignments": {
+        "historyTitle": "作業紀錄",
+        "historyDesc": "已提交作業與分數的完整紀錄",
+        "dueDate": "到期日",
+        "submitted": "提交日期",
+        "notSubmitted": "未提交",
+        "teacherFeedback": "老師回饋"
+      },
+      "progress": {
+        "subjectProgressTitle": "科目進度",
+        "subjectProgressDesc": "各科目前表現",
+        "target": "目標",
+        "learningGoalsTitle": "學習目標",
+        "learningGoalsDesc": "需要改善與專注的範疇",
+        "focusArea": "需要專注",
+        "strength": "強項",
+        "achievement": "成就"
+      },
+      "activity": {
+        "recentActivity": "近期活動",
+        "recentActivityDesc": "學生參與與平台使用情況",
+        "submittedAssignment": "提交了數學作業",
+        "parentPosted": "家長於作業討論區留言",
+        "receivedGrade": "獲得英文作業分數"
+      }
+    }
+  },
+  "community": {
+    "page": {
+      "title": "社群",
+      "subtitle": "一起連結、學習、成長",
+      "search": "搜尋社群...",
+      "tabs": {
+        "discussions": "討論",
+        "resources": "資源",
+        "groups": "練習小組"
+      },
+      "questions": {
+        "newPost": "新問題"
+      },
+      "discussions": {
+        "recent": "最新討論",
+        "newPost": "發佈貼文",
+        "latestReplies": "最新回覆：",
+        "follow": "追蹤",
+        "roles": {
+          "teacher": "老師",
+          "volunteer": "義工",
+          "staff": "職員",
+          "parent": "家長"
+        },
+        "posts": {
+          "0": {
+            "title": "K3 升小一過渡小秘訣",
+            "author": "匿名家長",
+            "timeAgo": "2 小時前",
+            "category": "一般",
+            "recentReplies": {
+              "0": "睡前閱讀—每天 10 分鐘，對常見詞很有幫助。",
+              "1": "試試帶圖卡片！把學習變成遊戲..."
+            }
+          },
+          "1": {
+            "title": "需要英語閱讀協助",
+            "author": "Sarah_HK",
+            "timeAgo": "4 小時前",
+            "category": "作業協助",
+            "recentReplies": {
+              "0": "孩子具體遇到哪些閱讀困難呢？",
+              "1": "我女兒也有類似情況。這些方法對我們有幫助..."
+            }
+          },
+          "2": {
+            "title": "功課動機策略分享",
+            "author": "TeacherVolunteer",
+            "timeAgo": "6 小時前",
+            "category": "技巧與策略",
+            "recentReplies": {
+              "0": "獎勵表非常有效！",
+              "1": "我常建議把任務拆小步驟來完成。"
+            }
+          }
+        },
+        "tags": {
+          "general": "一般",
+          "transition": "過渡",
+          "primary1": "小一",
+          "preparation": "準備"
+        }
+      },
+      "resources": {
+        "title": "共享資源",
+        "share": "分享",
+        "by": "作者",
+        "preview": "預覽",
+        "favourite": "收藏",
+        "download": "下載"
+      },
+      "groups": {
+        "title": "練習小組",
+        "create": "建立",
+        "members": "人",
+        "join": "加入小組（+25 分）"
+      }
+    },
+    "discussion": {
+      "title": "討論",
+      "reach": "REACH 社群",
+      "generalDiscussion": "綜合討論",
+      "replies": "回覆",
+      "report": "檢舉",
+      "helpful": "有幫助",
+      "addReply": "新增回覆",
+      "addReplyDesc": "分享你的想法，幫助其他家長",
+      "replyPlaceholder": "在此撰寫你的回覆...",
+      "postAnonymously": "匿名發佈",
+      "cancel": "取消",
+      "postReply": "發佈回覆",
+      "writeReply": "撰寫你的回覆...",
+      "followPost": "追蹤貼文"
+    }
+  },
+  "dashboard": {
+    "header": {
+      "subtitle": "家長主頁",
+      "settings": "設定"
+    },
+    "welcome": "歡迎回來，{{name}}",
+    "welcomeSubtitle": "追蹤 Emma 的學習旅程並連結 REACH 社群",
+    "tabs": {
+      "overview": "總覽",
+      "progress": "進度",
+      "engagement": "參與度",
+      "insights": "洞察"
+    },
+    "overview": {
+      "activeAssignments": "活躍作業",
+      "badgesEarned": "已獲徽章",
+      "averageGrade": "平均分",
+      "thisWeek": "本週",
+      "recentActivity": "最近活動",
+      "upcomingDeadlines": "即將到期",
+      "mathSubmitted": "已提交數學作業",
+      "earnedReadingStar": "獲得「閱讀之星」徽章",
+      "joinedDiscussion": "加入家長討論",
+      "yesterday": "昨天",
+      "dueTomorrow": "明天到期",
+      "dueInDays": "還有 {{days}} 天到期",
+      "dueNextWeek": "下週到期",
+      "pending": "待處理"
+    },
+    "progress": {
+      "subjectOverTime": "科目進度變化",
+      "subjectOverTimeDesc": "Emma 在不同科目的表現",
+      "currentSubject": "目前科目表現",
+      "currentSubjectDesc": "Emma 各科最新分數",
+      "achievementBadges": "成就徽章",
+      "achievementBadgesDesc": "Emma 的學習里程碑與成就",
+      "earned": "已獲"
+    },
+    "engagement": {
+      "weeklyLearningTime": "每週學習時數",
+      "weeklyLearningTimeDesc": "在作業與活動上投入的時間",
+      "communityEngagement": "社群參與",
+      "communityEngagementDesc": "你在 REACH 社群的參與",
+      "forumPosts": "論壇貼文",
+      "thisMonth": "本月",
+      "helpfulAnswers": "有幫助的回覆",
+      "givenToParents": "提供給其他家長",
+      "volunteerHours": "義工時數",
+      "timeAuction": "Time Auction 積分",
+      "joinDiscussions": "前往討論",
+      "weeklyLeaderboard": "每週排行榜",
+      "topFamilies": "本週參與度最高的家庭"
+    },
+    "insights": {
+      "personalized": "個人化建議",
+      "personalizedDesc": "AI 助你規劃 Emma 的學習旅程",
+      "prioritySuffix": " 優先",
+      "learningPatterns": "學習模式",
+      "learningPatternsDesc": "Emma 最佳學習時段",
+      "bestLearningTime": "最佳學習時間",
+      "preferredSubject": "喜愛科目",
+      "learningStyle": "學習風格",
+      "attentionSpan": "專注時間",
+      "areasForGrowth": "需要加強的範疇",
+      "areasForGrowthDesc": "下一步應專注的技能"
+    }
+  }
+  ,
+  "volunteer": {
+    "header": {
+      "title": "義工與 Time Auction",
+      "subtitle": "回答家長問題、累積時數、兌換獎勵",
+      "start": "開始賺取時數"
+    },
+    "ask": {
+      "title": "需要幫助？",
+      "subtitle": "向有經驗的家長與老師取得解答",
+      "submitQuestion": "提交問題",
+      "category": "分類",
+      "yourQuestion": "你的問題",
+      "placeholder": "描述孩子的學習挑戰或提出建議需求...",
+      "cancel": "取消",
+      "submit": "提交"
+    },
+    "categories": {
+      "general": "一般",
+      "phonics": "自然拼讀",
+      "reading": "閱讀",
+      "homework": "功課協助",
+      "motivation": "動機",
+      "resources": "資源"
+    },
+    "roles": {
+      "formerK3Teacher": "前 K3 老師",
+      "parentOf3": "三孩家長",
+      "childPsychologist": "兒童心理學家"
+    },
+    "badges": {
+      "goldMentor": "金級導師",
+      "silverHelper": "銀級幫手",
+      "platinumExpert": "白金專家"
+    },
+    "specialties": {
+      "phonics": "自然拼讀",
+      "reading": "閱讀",
+      "homework": "功課協助",
+      "motivation": "學習動機",
+      "learningDifficulties": "學習困難",
+      "development": "發展"
+    },
+    "impact": {
+      "title": "我的影響",
+      "subtitle": "追蹤你的義工時數與獎勵",
+      "thisMonth": "本月：{{hours}}/{{goal}} 小時",
+      "totalHours": "總時數",
+      "thisWeek": "本週排名",
+      "rewards": "獎勵",
+      "redeem": "兌換獎勵",
+      "leaderboard": "排行榜"
+    },
+    "volunteers": {
+      "title": "可供協助的義工",
+      "answers": "個解答",
+      "hoursContributed": "已貢獻 {{hours}} 小時",
+      "answerQuestions": "回答問題",
+      "offline": "離線",
+      "search": "搜索義工..."
+    },
+    "recent": {
+      "title": "最新問題",
+      "answered": "已解答"
+    },
+    "qna": {
+      "title": "問答中心",
+      "subtitle": "幫助家長和學生解決學習問題",
+      "searchPlaceholder": "按標題、內容或標籤搜索問題...",
+      "filters": {
+        "all": "全部",
+        "urgent": "緊急",
+        "unanswered": "未解答",
+        "answered": "已解答"
+      },
+      "priority": {
+        "urgent": "緊急",
+        "normal": "一般",
+        "low": "低"
+      },
+      "status": {
+        "open": "開放",
+        "answered": "已解答", 
+        "resolved": "已解決"
+      },
+      "actions": {
+        "answer": "回答",
+        "submitAnswer": "提交回答",
+        "cancel": "取消"
+      },
+      "form": {
+        "yourAnswer": "你的回答",
+        "answerPlaceholder": "分享你的知識，幫助這位家長...",
+        "submitted": "回答提交成功！"
+      },
+      "stats": {
+        "questions": "問題",
+        "upvotes": "讚數",
+        "answers": "回答"
+      },
+      "empty": {
+        "title": "沒有找到問題",
+        "subtitle": "嘗試調整你的搜索詞或篩選器。",
+        "noResults": "成為第一個提問的人！"
+      }
+    },
+    "liveTutoring": {
+      "title": "實時輔導",
+      "subtitle": "與學生進行一對一輔導課程",
+      "tabs": {
+        "upcoming": "即將開始",
+        "live": "進行中",
+        "completed": "已完成"
+      },
+      "session": {
+        "joinSession": "加入課程",
+        "startEarly": "提早開始",
+        "message": "發訊息",
+        "viewNotes": "查看筆記"
+      },
+      "videoCall": {
+        "you": "你",
+        "live": "直播中"
+      },
+      "time": {
+        "today": "今天",
+        "tomorrow": "明天"
+      },
+      "stats": {
+        "sessions": "課程"
+      },
+      "empty": {
+        "noLive": "目前沒有進行中的課程。",
+        "noUpcoming": "沒有預定的課程。",
+        "noCompleted": "還沒有完成的課程。"
+      }
+    }
+  }
+  ,
+  "progress": {
+    "header": {
+      "title": "學習進度",
+      "subtitle": "追蹤孩子的英語學習旅程",
+      "overallScore": "總分"
+    },
+    "radar": {
+      "title": "技能總覽",
+      "legend": {
+        "current": "目前等級",
+        "goal": "目標等級"
+      }
+    },
+    "skills": {
+      "title": "技能細分",
+      "focusFirst": "優先關注",
+      "goalLabel": "目標：",
+      "aboveGoal": " 已達目標 ✓",
+      "onTrack": " 進度良好，還需 {{remaining}}%！",
+      "alphabet": {
+        "name": "字母",
+        "insight": "進步非常棒！可加強 b/d 等相似字母練習。"
+      },
+      "sightWords": {
+        "name": "常見詞",
+        "insight": "基礎紮實！再進步 15% 即可達成下一里程碑。"
+      },
+      "vocabulary": {
+        "name": "詞彙",
+        "insight": "詞彙量豐富！領先進度，準備接受新挑戰。"
+      },
+      "phonemicAwareness": {
+        "name": "音素意識",
+        "insight": "聆聽力很棒！每天都在進步地融合語音。"
+      },
+      "pointAndRead": {
+        "name": "指讀",
+        "insight": "自信滿滿！能獨立閱讀，表現出色。"
+      }
+    },
+    "ai": {
+      "proficiency": "精熟度",
+      "title": "推薦練習",
+      "subtitle": "個人化活動，幫助孩子更快進步",
+      "priority": "優先",
+      "startPractice": "開始練習",
+      "minutes_one": "{{count}} 分鐘",
+      "minutes_other": "{{count}} 分鐘",
+      "tip": "🎯 先從優先活動開始，獲得最大學習成效",
+      "recs": {
+        "0": {
+          "title": "練習常見詞",
+          "description": "在今天的故事書中玩「找字」遊戲。"
+        },
+        "1": {
+          "title": "字母練習",
+          "description": "臨摹小寫字母 \"b\" 與 \"d\"，加強辨識。"
+        },
+        "2": {
+          "title": "聲音配對",
+          "description": "在學生 App 嘗試聲音合併練習。"
+        }
+      }
+    },
+    "worksheets": {
+      "title": "工作紙紀錄",
+      "subtitle": "每週工作紙提交與進度",
+      "week": "第{{number}}週",
+      "submitted": "已提交",
+      "pending": "待批改",
+      "notSubmitted": "未提交",
+      "score": "分數：{{score}}/100",
+      "aiReport": "AI 報告",
+      "teacherComment": "老師評語",
+      "viewDetails": "查看詳情",
+      "submittedOn": "提交於 {{date}}",
+      "noComment": "老師尚未評語",
+      "aiAnalysis": "AI 分析",
+      "strengths": "優點",
+      "improvements": "改進建議",
+      "overallProgress": "整體進步"
+    },
+    "trend": {
+      "title": "總分趨勢",
+      "milestone1": "三月：達成 30 個常見詞",
+      "milestone2": "五月：完成字母掌握",
+      "motivation": "進步很大！本月提升 +15% 🎉"
+    }
+  }
+  ,
+  "discussions": {
+    "header": "討論",
+    "searchPlaceholder": "搜尋討論...",
+    "tabs": {
+      "help": "尋求協助",
+      "give": "提供協助",
+      "resources": "共享資源",
+      "groups": "練習小組"
+    },
+    "help": {
+      "title": "需要幫助？",
+      "askQuestion": "發問",
+      "replies": "則回覆"
+    },
+    "give": {
+      "title": "幫助他人並賺取積分",
+      "urgent": "緊急",
+      "pts": "分"
+    },
+    "resources": {
+      "title": "共享資源",
+      "share": "分享資源",
+      "by": "由",
+      "downloads": "次下載"
+    },
+    "groups": {
+      "title": "練習小組",
+      "create": "建立小組",
+      "members": "位成員",
+      "join": "加入小組"
+    }
+  },
+  "forgotPassword": {
+    "titleEmail": "重設密碼",
+    "titleSent": "請查收電郵",
+    "subtitleEmail": "輸入你的電郵以接收重設指示",
+    "subtitleSent": "我們已寄出密碼重設連結",
+    "backToSignIn": "返回登入",
+    "emailAddress": "電郵地址",
+    "emailPlaceholder": "輸入你的電郵地址",
+    "sending": "正在傳送重設連結...",
+    "send": "傳送重設連結",
+    "remember": "記起密碼了？",
+    "signIn": "登入",
+    "sentTitle": "重設連結已寄出！",
+    "sentTo": "我們已把密碼重設連結寄到 ",
+    "nextSteps": "下一步",
+    "steps": {
+      "check": "檢查你的電子郵件",
+      "click": "點擊密碼重設連結",
+      "create": "建立新密碼",
+      "signin": "以新密碼登入"
+    },
+    "openEmail": "開啟電郵程式",
+    "noEmail": "沒有收到電郵？",
+    "tryAgain": "再試一次"
+  },
+  "volunteer": {
+    "dashboard": {
+      "greeting": "Hi, {{name}} 👋",
+      "thankYou": "感謝您持續為社區家庭帶來溫暖與支持",
+      "timeAuction": {
+        "title": "Time Auction",
+        "subtitle": "技能義工平台 • 做義工，換體驗",
+        "availableHours": "可用時數：",
+        "redeemNow": "立即兌換"
+      },
+      "stats": {
+        "yourContribution": "您的貢獻",
+        "monthlyNew": "本月新增 {{hours}} 小時 ✨",
+        "totalServiceHours": "總服務時數",
+        "familiesHelped": "已幫助家庭",
+        "weeklyNew": "+{{count}} 本週新增"
+      },
+      "aiRecommendations": {
+        "title": "AI 推薦您幫助的家庭",
+        "suggestions": "{{count}} 個建議",
+        "urgency": {
+          "high": "緊急",
+          "medium": "一般",
+          "low": "非緊急"
+        },
+        "reason": "推薦原因：{{reason}}",
+        "sendMessage": "發送訊息提供協助",
+        "lastActivity": {
+          "justNow": "剛剛",
+          "daysAgo": "{{count}} 天前",
+          "dayAgo": "{{count}} 天前"
+        }
+      },
+      "families": {
+        "emma": "Emma 的家庭",
+        "lucas": "Lucas 的家庭",
+        "sophie": "Sophie 的家庭",
+        "problems": {
+          "bdConfusion": "孩子在辨識 'b' 和 'd' 時遇到困難",
+          "homeEnvironment": "家長不知道如何在家中營造英語學習環境",
+          "motivation": "孩子對英語學習缺乏興趣和動機"
+        },
+        "aiReasons": {
+          "phonicsExperience": "您在『自然拼讀』方面有豐富經驗",
+          "similarSuccess": "您成功幫助過類似情況的家庭",
+          "motivationSkills": "您擅長激發孩子的學習熱忱"
+        },
+        "tags": {
+          "pronunciationRecognition": "發音辨識",
+          "readingBasics": "閱讀基礎",
+          "homeEducation": "家庭教育",
+          "learningEnvironment": "學習環境",
+          "learningMotivation": "學習動機",
+          "interestCultivation": "興趣培養"
+        }
+      },
+      "rewards": {
+        "title": "Time Auction 獎勵",
+        "subtitle": "做義工，換體驗",
+        "currentHours": "您目前擁有：{{hours}} 服務時數",
+        "items": {
+          "artJamming": {
+            "title": "1.5 小時藝術創作體驗",
+            "subtitle": "Art Jamming Session",
+            "description": "在專業藝術工作室享受創作時光",
+            "location": "中環藝術中心"
+          },
+          "coffeeWorkshop": {
+            "title": "精品咖啡品鑑課程",
+            "subtitle": "Coffee Cupping Workshop",
+            "description": "學習專業咖啡品鑑技巧",
+            "location": "銅鑼灣咖啡學院"
+          },
+          "hiking": {
+            "title": "週末登山體驗團",
+            "subtitle": "Weekend Hiking Adventure",
+            "description": "與其他義工一起享受戶外時光",
+            "location": "大帽山"
+          },
+          "photography": {
+            "title": "專業攝影工作坊",
+            "subtitle": "Photography Masterclass",
+            "description": "提升攝影技巧的專業課程",
+            "location": "尖沙咀攝影中心"
+          },
+          "boardGame": {
+            "title": "桌遊設計體驗課",
+            "subtitle": "Board Game Design Workshop",
+            "description": "設計屬於自己的桌上遊戲",
+            "location": "旺角創意空間"
+          },
+          "dinner": {
+            "title": "義工聚餐晚宴",
+            "subtitle": "Volunteer Appreciation Dinner",
+            "description": "與REACH團隊及其他義工共進晚餐",
+            "location": "中環餐廳"
+          }
+        },
+        "status": {
+          "available": "可用",
+          "full": "已額滿",
+          "spotsLeft": "{{count}} 名額",
+          "redeem": "立即兌換",
+          "needMore": "需 {{hours}} 時數"
+        }
+      }
+    },
+    "header": {
+      "title": "義工及技能交換",
+      "subtitle": "回答家長問題，賺取時數，兌換獎勵",
+      "start": "開始賺取時數"
+    },
+    "ask": {
+      "title": "需要幫助？",
+      "subtitle": "從經驗豐富的家長和老師那裡得到答案",
+      "submitQuestion": "提交問題",
+      "category": "類別",
+      "yourQuestion": "你的問題",
+      "placeholder": "描述你孩子的學習挑戰或尋求建議...",
+      "cancel": "取消",
+      "submit": "提交"
+    },
+    "categories": {
+      "general": "一般",
+      "phonics": "拼音",
+      "reading": "閱讀",
+      "homework": "功課輔導",
+      "motivation": "動機",
+      "resources": "資源"
+    },
+    "roles": {
+      "formerK3Teacher": "前K3老師",
+      "parentOf3": "三孩家長",
+      "childPsychologist": "兒童心理學家"
+    },
+    "badges": {
+      "goldMentor": "金牌導師",
+      "silverHelper": "銀牌助手",
+      "platinumExpert": "白金專家"
+    },
+    "specialties": {
+      "phonics": "拼音",
+      "reading": "閱讀",
+      "homework": "功課輔導",
+      "motivation": "動機",
+      "learningDifficulties": "學習困難",
+      "development": "發展"
+    },
+    "impact": {
+      "title": "我的影響力",
+      "subtitle": "追蹤你的義工時數和獎勵",
+      "thisMonth": "本月：{{hours}}/{{goal}} 小時",
+      "totalHours": "總時數",
+      "thisWeek": "本週",
+      "rewards": "獎勵",
+      "redeem": "兌換獎勵",
+      "leaderboard": "排行榜"
+    },
+    "volunteers": {
+      "title": "可用義工",
+      "answers": "回答",
+      "hoursContributed": "{{hours}} 小時貢獻",
+      "answerQuestions": "請求幫助",
+      "offline": "離線",
+      "search": "搜尋義工..."
+    },
+    "recent": {
+      "title": "最近問題",
+      "answered": "已回答"
+    },
+    "qna": {
+      "title": "問答中心",
+      "subtitle": "幫助家長和學生解決學習問題",
+      "searchPlaceholder": "按標題、內容或標籤搜尋問題...",
+      "filters": {
+        "all": "全部",
+        "urgent": "緊急",
+        "answered": "已回答",
+        "unanswered": "未回答"
+      },
+      "form": {
+        "title": "提出問題",
+        "category": "類別",
+        "question": "你的問題",
+        "placeholder": "在這裡提出你的問題...",
+        "submit": "提交問題",
+        "cancel": "取消"
+      },
+      "question": {
+        "by": "由",
+        "timeAgo": "{{time}} 前",
+        "answers": "{{count}} 個回答",
+        "upvotes": "讚數",
+        "answerPlaceholder": "在這裡輸入你的答案...",
+        "submitAnswer": "提交答案",
+        "upvote": "讚好",
+        "downvote": "踩"
+      },
+      "stats": {
+        "totalQuestions": "總問題數",
+        "answered": "已回答",
+        "avgResponseTime": "平均回應時間",
+        "yourRank": "你的排名",
+        "topVolunteers": "本月頂級義工"
+      },
+      "empty": {
+        "title": "未找到問題",
+        "subtitle": "嘗試調整你的搜尋詞或篩選器。",
+        "askFirst": "成為第一個提問的人！"
+      }
+    },
+    "liveTutoring": {
+      "title": "實時輔導",
+      "subtitle": "與學生進行一對一輔導課程",
+      "schedule": "安排課程",
+      "upcoming": "即將開始",
+      "completed": "已完成",
+      "earnings": "課程收入",
+      "sessionDetails": {
+        "student": "學生",
+        "subject": "科目",
+        "duration": "時長",
+        "rate": "費率",
+        "total": "總計"
+      },
+      "availability": {
+        "title": "設定你的可用時間",
+        "selectTimes": "選擇你的可用時段",
+        "save": "保存可用性"
+      }
+    }
+  },
+  "leaderboard": {
+    "title": "排行榜",
+    "subtitle": "看看你在學習者中的排名",
+    "hiddenTitle": "排行榜已隱藏",
+    "hiddenDesc": "你已選擇退出。在你重新加入前，你不會顯示於排行榜。",
+    "tabs": {
+      "overall": "總積分",
+      "improved": "進步最多"
+    },
+    "overall": {
+      "topPerformers": "表現最佳",
+      "you": "你",
+      "dayStreak": "天連續",
+      "points": "分"
+    },
+    "improved": {
+      "title": "本週進步最多",
+      "rising": "上升中"
+    },
+    "pointsInfo": {
+      "title": "如何獲取積分",
+      "submit": "提交作業",
+      "help": "於討論中幫助他人",
+      "join": "加入練習小組",
+      "streak": "每日連續登入",
+      "plus50": "+50 分",
+      "plus75": "+75 分",
+      "plus25": "+25 分",
+      "plus10": "+10 分"
+    },
+    "optOut": "退出排行榜",
+    "optIn": "加入排行榜",
+    "leagues": {
+      "bronze": "青銅聯賽",
+      "silver": "白銀聯賽", 
+      "gold": "黃金聯賽",
+      "diamond": "鑽石聯賽"
+    },
+    "currentTeam": {
+      "name": "我們的家庭"
+    },
+    "points": "分",
+    "totalScore": "總分",
+    "highFives": "點讚數",
+    "promotionZone": {
+      "title": "衝刺晉級區！",
+      "desc": "前 3 名下週晉級 🚀"
+    },
+    "demotionZone": {
+      "title": "練習區",
+      "desc": "後 2 名需要加強練習 💪"
+    },
+    "me": "我",
+    "ranking": "排名",
+    "rank": "第 {{rank}} 名",
+    "teamProfile": "團隊資料",
+    "scoreBreakdown": "積分來源",
+    "coopMissions": "合作任務",
+    "courseLearning": "課程學習",
+    "pointsUnit": "分",
+    "learningProgress": "學習進度",
+    "liked": "已點讚",
+    "giveHighFive": "為他們點讚 🙌",
+    "bonusTasks": "加分任務",
+    "bonusTasksDesc": "完成這些任務可獲得額外積分！",
+    "bonusTask1": {
+      "title": "上傳工作紙",
+      "desc": "上傳完成的練習工作紙"
+    },
+    "bonusTask2": {
+      "title": "觀看教學影片",
+      "desc": "觀看完整的教學影片"
+    },
+    "bonusTask3": {
+      "title": "親子發音練習",
+      "desc": "和孩子一起做發音練習"
+    }
+  }
+}
+
+

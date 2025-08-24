@@ -1,0 +1,6 @@
+# virtual environment
+/venv
+
+# pycache
+/src/__pycache__/
+/src/core/__pycache__/
