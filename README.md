@@ -12,7 +12,9 @@ Points will appear on a school-wide leaderboard, promoting friendly competition 
 tangible rewards.
 
 ## Multi-Stakeholder English Learning Platform
-<img width="480" height="400" alt="Screenshot 2025-08-24 at 11 52 00 pm" src="https://github.com/user-attachments/assets/5a0a0202-2db2-4f25-a9b5-0b7127b5ef12" />
+<img width="480" height="400" alt="Screenshot 2025-08-25 at 12 08 45 am" src="https://github.com/user-attachments/assets/5a943b8e-3d95-4cf5-83ee-899cd1624f4f" />
+
+<img width="480" height="400" alt="Screenshot 2025-08-25 at 12 13 37 am" src="https://github.com/user-attachments/assets/8900c9ef-2b36-48aa-833d-04b3c39472c9" />
 
 
 A web application designed to facilitate English learning for K3 children through parent-child collaboration, volunteer support, and NGO administration.
