@@ -15,6 +15,7 @@ tangible rewards.
 A web application designed to facilitate English learning for K3 children through parent-child collaboration, volunteer support, and NGO administration.
 
 ## Overview
+<img width="480" height="480" alt="ChatGPT Image Aug 24, 2025 at 05_08_26 AM" src="https://github.com/user-attachments/assets/9a0982db-f292-462f-83be-fb26672b3236" />
 
 This platform connects multiple stakeholders in the English learning ecosystem:
 - **Students & Parents**: Interactive learning activities and progress tracking
