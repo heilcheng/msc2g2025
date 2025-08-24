@@ -108,3 +108,4 @@ next-env.d.ts
 
 # Local development
 .env.example
+.next/
