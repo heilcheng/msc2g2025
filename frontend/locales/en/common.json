@@ -295,6 +295,21 @@
     "completionRate": "Completion Rate",
     "returnRate": "Return Rate",
     "learningInsights": "Learning Insights",
+    "dashboard": {
+      "reports": {
+        "positiveTrend": "Positive Trend",
+        "positiveTrendDesc": "Students showing consistent improvement across multiple subjects",
+        "attentionNeeded": "Attention Needed",
+        "attentionNeededDesc": "Students requiring additional support or intervention",
+        "opportunity": "Growth Opportunity", 
+        "opportunityDesc": "Areas where targeted support could maximize learning outcomes"
+      },
+      "assignments": {
+        "graded": "Assignments Graded",
+        "pendingReview": "Pending Review",
+        "aiPreGraded": "AI Pre-Graded"
+      }
+    },
     "mostDifficult": "Most Difficult Topic",
     "fastestImprovement": "Fastest Improvement",
     "peakLearningTime": "Peak Learning Time",

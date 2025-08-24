@@ -295,6 +295,21 @@
     "completionRate": "完成率",
     "returnRate": "回歸率",
     "learningInsights": "學習洞察",
+    "dashboard": {
+      "reports": {
+        "positiveTrend": "積極趨勢",
+        "positiveTrendDesc": "在多個科目中表現持續改善的學生",
+        "attentionNeeded": "需要關注",
+        "attentionNeededDesc": "需要額外支援或介入的學生",
+        "opportunity": "成長機會", 
+        "opportunityDesc": "有針對性支援可最大化學習成果的領域"
+      },
+      "assignments": {
+        "graded": "已評分作業",
+        "pendingReview": "待審核",
+        "aiPreGraded": "AI預評分"
+      }
+    },
     "mostDifficult": "最難主題",
     "fastestImprovement": "進步最快",
     "peakLearningTime": "學習高峰時間",

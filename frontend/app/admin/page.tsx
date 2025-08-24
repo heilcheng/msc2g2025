@@ -448,7 +448,7 @@ export default function AdminDashboard() {
                         </div>
                         <div>
                           <p className="font-bold text-base text-text-primary dark:text-white">
-                            {t(`admin.${subject.subject.toLowerCase().replace(' ', '')}`) || subject.subject}
+                            {t(`admin.${subject.subject.toLowerCase().replace(' ', '')}`) || t(subject.subject.toLowerCase().replace(' ', '')) || subject.subject}
                           </p>
                           <p className="text-sm text-text-secondary dark:text-gray-400 mt-1">
                             {subject.totalAttempts} {t('admin.exercises')}
