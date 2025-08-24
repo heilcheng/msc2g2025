@@ -15,7 +15,8 @@ tangible rewards.
 A web application designed to facilitate English learning for K3 children through parent-child collaboration, volunteer support, and NGO administration.
 
 ## Overview
-<img width="480" height="480" alt="ChatGPT Image Aug 24, 2025 at 05_08_26 AM" src="https://github.com/user-attachments/assets/9a0982db-f292-462f-83be-fb26672b3236" />
+<img width="480" height="400" alt="Screenshot 2025-08-24 at 11 15 24 pm" src="https://github.com/user-attachments/assets/9e1f1402-686e-4dc0-981d-a9feac6a8197" />
+
 
 This platform connects multiple stakeholders in the English learning ecosystem:
 - **Students & Parents**: Interactive learning activities and progress tracking
@@ -25,64 +26,37 @@ This platform connects multiple stakeholders in the English learning ecosystem:
 ## Features
 
 ### For Parents and Students
+<img width="480" height="480" alt="Screenshot 2025-08-24 at 10 59 28 pm" src="https://github.com/user-attachments/assets/1b30bf3d-1b4c-4f81-b554-f2a045b23f77" />
 
-#### Home Dashboard
-- Personalized learning path with weekly missions
-- AI-generated daily challenges based on student progress
-- Progress tracking with visual indicators
-- Task prioritization with urgency management
 
-#### Progress Tracking
-- Skills breakdown across multiple subjects (Alphabet, Sight Words, Vocabulary, Phonics)
-- Interactive radar chart visualization
-- Weekly worksheet submission records (Weeks 1-11)
-- AI reports and teacher feedback integration
-- Performance analytics and trend analysis
+**Socratic-like AI & teacher feedback integration**: I use Ollama + LLaVA:7B to power multimodal AI grading: a lightweight yet effective vision-language model that reads K3 students’ worksheets more accurately than traditional OCR-only pipelines, while also generating meaningful AI feedback for parents!
+- **Personalized Dashboard**: Weekly missions, AI-generated daily challenges, and clear progress indicators
+- **Progress Tracking**: Skills radar chart, worksheet submission records
+- **Forums**: Forums, resources, Quora-like Q&A section for parents
+- **Duolingo-like Leaderboard System & Habitica-like RPG Gamification**: Parent-child team competition, co-op missions, avatars, and social reactions
 
-#### Leaderboard System
-- League-based competition (Bronze, Silver, Gold, Diamond)
-- Parent-child team formation with custom names and avatars
-- Co-op mission scoring system
-- Social interaction features (high-five reactions)
-- Team profile modals with skills visualization
 
 ### For Volunteers
+<img width="480" height="480" alt="Screenshot 2025-08-24 at 11 04 16 pm" src="https://github.com/user-attachments/assets/cc9af01a-812f-4318-916c-0db623e76e2c" />
 
-#### Volunteer Dashboard
-- Personal contribution summary and statistics
-- AI-recommended families to assist
-- Time Auction rewards redemption system
-- Service hour tracking and impact metrics
-- Family assistance queue with priority indicators
+**Rewards System ([Time Auction](https://timeauction.org/)):**  
+Volunteers earn service hours by assisting low-income families with homework guidance. These hours can be redeemed via [Time Auction](https://timeauction.org/): a charity platform where volunteer hours are exchanged for real-life rewards, such as mentorship sessions with professionals, unique experiences, and public recognition. This creates a sustainable incentive model where volunteers give back, families benefit, and NGOs can track impact.
+- **Volunteer Dashboard**: Service hour tracking, personal contribution stats, AI-suggested families to help
+- **Builds a sustainable cycle**: volunteers give back, families benefit, and NGOs track impact
 
-#### Support Tools
-- Family profile access with learning insights
-- Communication tools for parent guidance
-- Progress monitoring for assigned families
-- Volunteer leaderboard and recognition system
 
 ### For NGO Administrators
+<img width="480" height="400" alt="Screenshot 2025-08-24 at 11 24 38 pm" src="https://github.com/user-attachments/assets/06dd33aa-c2fa-4a9b-9904-e9633949136b" />
 
-#### Admin Dashboard
-- Student watchlist and attention alerts
-- Inactive parent monitoring and engagement tools
-- Key performance indicators (Engagement, Progress, Retention)
-- Data visualization and trend analysis
-- Comprehensive student directory
 
-#### Analytics and Reporting
-- Learning trend analysis across regions and demographics
-- Subject performance comparisons
-- Student progress tracking with detailed profiles
-- Performance alerts and intervention recommendations
-- Export capabilities for reports and data
+I analyze student data to identify those who are falling behind or whose parents have not used the app for a while; in such cases, NGO volunteers reach out to provide support and improve engagement.
+- **Admin Dashboard**: Student watchlist, parent engagement monitor, KPI visualization for donors
+- **Analytics & Reporting**: Regional learning trends, subject performance comparison, intervention alert system for students who cannot catch up
 
-#### Student Management
-- Individual student profiles with complete learning history
-- Assignment tracking and grading management
-- Parent communication tools
-- Performance trend monitoring
-- Intervention planning and tracking
+### Accessibility Support
+- Clean webapp fits all platforms: PC, iOS & Android devices
+- Complete English and Chinese localization, dynamic language switching
+- Accessible design for diverse populations (Large font, dark/light mode, high contrast mode, low-battery mode, etc.)
 
 ## Technical Architecture
 
@@ -100,12 +74,14 @@ This platform connects multiple stakeholders in the English learning ecosystem:
 - **Components**: Reusable UI components with consistent styling
 - **Dark Mode**: Full dark mode support across all interfaces
 
-### Key Components
-- **TopNavbar**: Global navigation with language switching
-- **MobileNavigation**: Bottom navigation for mobile devices
-- **SkillsRadarChart**: Custom visualization for student progress
-- **LanguageSwitcher**: Dynamic language selection
-- **Settings Management**: User preferences and privacy controls
+### Backend Tech Stack / Tools
+- **Framework**: FastAPI
+- **Database**: MongoDB
+- **Database Driver**: Motor (for asynchronous access)
+- **Data Validation**: Pydantic
+- **AI Model**: LLaVA:7b / LLama3.2-vision / Ollama
+- **Containerization**: Docker
+- **Reverse Proxy**: Nginx
 
 ## Installation and Setup
 
@@ -154,46 +130,6 @@ Role-based access control with three user types:
 - Parent (access to home, progress, leaderboard)
 - Volunteer (access to volunteer dashboard and tools)
 - Admin (access to comprehensive admin dashboard)
-
-## Key Functionality
-
-### Learning Management
-- Adaptive learning paths based on AI analysis
-- Progress tracking across multiple skill areas
-- Worksheet submission and automated grading
-- Performance alerts and intervention recommendations
-
-### Gamification
-- League system with promotion/relegation
-- Team-based scoring and achievements
-- Social features for community engagement
-- Reward system integration with Time Auction platform
-
-### Analytics and Insights
-- Real-time performance monitoring
-- Predictive analytics for learning outcomes
-- Comprehensive reporting for stakeholders
-- Data-driven intervention recommendations
-
-### Multi-Language Support
-- Complete English and Chinese localization
-- Dynamic language switching
-- Cultural adaptation for different user groups
-- Accessible design for diverse populations
-
-## Browser Support
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-
-## Contributing
-
-This project follows standard web development practices with emphasis on:
-- Component reusability
-- Accessibility compliance
-- Performance optimization
-- Clean code architecture
 
 ## License
 
