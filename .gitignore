@@ -4,6 +4,13 @@ frontend/node_modules/
 /.pnp
 .pnp.js
 
+# Python virtual environments
+venv/
+env/
+backend/venv/
+backend/env/
+*.venv
+
 # Production builds
 frontend/.next/
 frontend/out/
@@ -16,6 +23,22 @@ dist/
 .env.development.local
 .env.test.local
 .env.production.local
+.env.*
+!.env.example
+
+# Security files
+*.key
+*.pem
+*.p12
+*.pfx
+config.json
+secrets.json
+credentials.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
 
 # Runtime data
 pids
