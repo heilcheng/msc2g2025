@@ -407,7 +407,7 @@ export default function ProgressPage() {
                         <text
                           x={pos.x}
                           y={pos.y}
-                          textAnchor={pos.anchor}
+                          textAnchor={pos.anchor as "start" | "middle" | "end"}
                           className="fill-gray-700 dark:fill-gray-300 select-none"
                           style={{ 
                             fontSize: '10px', 
@@ -422,7 +422,7 @@ export default function ProgressPage() {
                         <text
                           x={pos.x}
                           y={pos.percentY}
-                          textAnchor={pos.anchor}
+                          textAnchor={pos.anchor as "start" | "middle" | "end"}
                           className="fill-green-500 select-none"
                           style={{ 
                             fontSize: '10px', 
