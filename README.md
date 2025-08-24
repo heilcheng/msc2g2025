@@ -1,6 +1,18 @@
-# MS-C2G-2025: Multi-Stakeholder English Learning Platform
+# Morgan Stanley Code to Give 2025 @ Hong Kong
 
-A comprehensive web application designed to facilitate English learning for K3 children through parent-child collaboration, volunteer support, and NGO administration.
+## Problem Statment
+Design and develop a centralized, real-time, collaborative digital platform that offers resources and guidance needed for parents to 
+actively participate in their child's educational development. Include these features: 
+ 
+1. The solution should work like a centralized digital platform to host all learning materials and allow parents to upload 
+completed work, forming a student portfolio to help staff monitor progress, give feedback, and keep parents aligned with 
+the child’s learning journey. 
+2. Having a gamified point-based system to encourage timely homework uploads by rewarding parents and children. 
+Points will appear on a school-wide leaderboard, promoting friendly competition and recognizing consistent effort with 
+tangible rewards.
+
+## Multi-Stakeholder English Learning Platform
+A web application designed to facilitate English learning for K3 children through parent-child collaboration, volunteer support, and NGO administration.
 
 ## Overview
 
